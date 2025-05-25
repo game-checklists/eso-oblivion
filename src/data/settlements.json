@@ -1,0 +1,46 @@
+{
+  "settlements": [
+    { "name": "Aleswell", "id": "aleswell" },
+    { "name": "Blankenmarch", "id": "blankenmarch" },
+    { "name": "Bleaker's Way", "id": "bleakers-way" },
+    { "name": "Border Watch", "id": "border-watch" },
+    { "name": "Brindle Home", "id": "brindle-home" },
+    { "name": "Hackdirt", "id": "hackdirt" },
+    { "name": "Harlun's Watch", "id": "harluns-watch" },
+    { "name": "Pell's Gate", "id": "pells-gate" },
+    { "name": "Water's Edge", "id": "waters-edge" },
+    { "name": "Weye", "id": "weye" },
+    { "name": "Applewatch", "id": "applewatch" },
+    { "name": "Cropsford", "id": "cropsford" },
+    { "name": "Drakelowe", "id": "drakelowe" },
+    { "name": "Gweden Farm", "id": "gweden-farm" },
+    { "name": "Harm's Folly", "id": "harms-folly" },
+    { "name": "Lord Drad's Estate", "id": "lord-drads-estate" },
+    { "name": "Lord Rugdumph's Estate", "id": "lord-rugdumphs-estate" },
+    { "name": "Odiil Farm", "id": "odiil-farm" },
+    { "name": "Shardrock", "id": "shardrock" },
+    { "name": "Shetcombe Farm", "id": "shetcombe-farm" },
+    { "name": "Whitmond Farm", "id": "whitmond-farm" },
+    { "name": "Greyland", "id": "greyland" },
+    { "name": "Melus Petilius' House", "id": "melus-petilius-house" },
+    {
+      "name": "Roland Jenseric's House",
+      "id": "roland-jenseric-house"
+    },
+    { "name": "Weatherleah", "id": "weatherleah" },
+    { "name": "Cadlew Chapel", "id": "cadlew-chapel" },
+    { "name": "Cloud Ruler Temple", "id": "cloud-ruler-temple" },
+    { "name": "Gottlesfont Priory", "id": "gottlesfont-priory" },
+    {
+      "name": "Knights of the Thorn Headquarters",
+      "id": "knights-of-the-thorn-headquarters"
+    },
+    {
+      "name": "Temple of the Ancestor Moths",
+      "id": "temple-of-the-ancestor-moths"
+    },
+    { "name": "Weynon Priory", "id": "weynon-priory" },
+    { "name": "White Stallion Lodge", "id": "white-stallion-lodge" },
+    { "name": "Priory of the Nine", "id": "priory-of-the-nine" }
+  ]
+}

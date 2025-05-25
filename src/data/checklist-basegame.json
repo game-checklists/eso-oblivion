@@ -1,0 +1,1087 @@
+{
+  {
+  "mainQuestline": [
+    { "id": "tutorial", "name": "Tutorial", "isOptional": false },
+    { "id": "deliver-the-amulet", "name": "Deliver the Amulet", "isOptional": false },
+    { "id": "find-the-heir", "name": "Find the Heir", "isOptional": false },
+    { "id": "breaking-the-siege-of-kvatch", "name": "Breaking the Siege of Kvatch", "isOptional": false },
+    { "id": "the-battle-for-castle-kvatch", "name": "The Battle for Castle Kvatch", "isOptional": true },
+    { "id": "weynon-priory", "name": "Weynon Priory", "isOptional": false },
+    { "id": "the-path-of-dawn", "name": "The Path of Dawn", "isOptional": false },
+    { "id": "dagon-shrine", "name": "Dagon Shrine", "isOptional": false },
+    { "id": "attack-on-fort-sutch", "name": "Attack on Fort Sutch", "isOptional": true },
+    { "id": "spies", "name": "Spies", "isOptional": false },
+    { "id": "blood-of-the-daedra", "name": "Blood of the Daedra", "isOptional": false },
+    { "id": "bruma-gate", "name": "Bruma Gate", "isOptional": false },
+    { "id": "allies-for-bruma", "name": "Allies for Bruma", "isOptional": true },
+    { "id": "blood-of-the-divines", "name": "Blood of the Divines", "isOptional": false },
+    { "id": "miscarcand", "name": "Miscarcand", "isOptional": false },
+    { "id": "defense-of-bruma", "name": "Defense of Bruma", "isOptional": false },
+    { "id": "great-gate", "name": "Great Gate", "isOptional": false },
+    { "id": "paradise", "name": "Paradise", "isOptional": false },
+    { "id": "light-the-dragonfires", "name": "Light the Dragonfires", "isOptional": false },
+    { "id": "imperial-dragon-armor", "name": "Imperial Dragon Armor", "isOptional": false }
+  ]
+}
+
+{
+  "fightersGuild": {
+    "initiationQuests": [
+      {
+        "id": "join-fighters-guild",
+        "name": "Join the Fighters Guild",
+      
+      }
+    ],
+    "chorrolQuests": [
+      {
+        "id": "unfinished-business",
+        "name": "Unfinished Business",
+      
+      },
+      {
+        "id": "drunk-and-disorderly",
+        "name": "Drunk and Disorderly",
+       
+      },
+      {
+        "id": "the-masters-son",
+        "name": "The Master's Son",
+       
+      },
+      {
+        "id": "more-unfinished-business",
+        "name": "More Unfinished Business",
+        
+      },
+      {
+        "id": "azani-blackheart",
+        "name": "Azani Blackheart",
+   
+      },
+      {
+        "id": "trolls-of-forsaken-mine",
+        "name": "Trolls of Forsaken Mine",
+       
+      },
+      {
+        "id": "information-gathering",
+        "name": "Information Gathering",
+      
+      },
+      {
+        "id": "infiltration",
+        "name": "Infiltration",
+   
+      },
+      {
+        "id": "the-hist",
+        "name": "The Hist",
+       
+      }
+    ],
+    "cheydinhalQuests": [
+      {
+        "id": "the-desolate-mine",
+        "name": "The Desolate Mine",
+       
+      },
+      {
+        "id": "amelions-debt",
+        "name": "Amelion's Debt",
+        
+      },
+      {
+        "id": "the-fugitives",
+        "name": "The Fugitives",
+        
+      },
+      {
+        "id": "the-nobles-daughter",
+        "name": "The Noble's Daughter",
+        
+      },
+      {
+        "id": "mystery-at-harluns-watch",
+        "name": "Mystery at Harlun's Watch",
+        
+      }
+    ],
+    "anvilQuests": [
+      {
+        "id": "a-rat-problem",
+        "name": "A Rat Problem",
+       
+      },
+      {
+        "id": "the-unfortunate-shopkeeper",
+        "name": "The Unfortunate Shopkeeper",
+      
+      },
+      {
+        "id": "den-of-thieves",
+        "name": "Den of Thieves",
+      
+      },
+      {
+        "id": "the-wandering-scholar",
+        "name": "The Wandering Scholar",
+  
+      },
+      {
+        "id": "the-stone-of-st-alessia",
+        "name": "The Stone of St. Alessia",
+       
+      }
+    ]
+  }
+}
+{
+  "magesGuild": {
+    "initiationQuests": [
+      {
+        "id": "join-mages-guild",
+        "name": "Join the Mages Guild"
+      }
+    ],
+    "recommendationQuests": [
+      {
+        "id": "anvil-recommendation",
+        "name": "Anvil Recommendation"
+      },
+      {
+        "id": "bravil-recommendation",
+        "name": "Bravil Recommendation"
+      },
+      {
+        "id": "bruma-recommendation",
+        "name": "Bruma Recommendation"
+      },
+      {
+        "id": "cheydinhal-recommendation",
+        "name": "Cheydinhal Recommendation"
+      },
+      {
+        "id": "chorrol-recommendation",
+        "name": "Chorrol Recommendation"
+      },
+      {
+        "id": "leyawiin-recommendation",
+        "name": "Leyawiin Recommendation"
+      },
+      {
+        "id": "skingrad-recommendation",
+        "name": "Skingrad Recommendation"
+      }
+    ],
+    "raminusPolusQuests": [
+      {
+        "id": "mages-staff",
+        "name": "A Mage's Staff"
+      },
+      {
+        "id": "ulterior-motives",
+        "name": "Ulterior Motives"
+      },
+      {
+        "id": "vahtacen-secret",
+        "name": "Vahtacen's Secret"
+      },
+      {
+        "id": "necromancers-moon",
+        "name": "Necromancer's Moon"
+      }
+    ],
+    "hannibalTravenQuests": [
+      {
+        "id": "liberation-or-apprehension",
+        "name": "Liberation or Apprehension?"
+      },
+      {
+        "id": "information-at-a-price",
+        "name": "Information at a Price"
+      },
+      {
+        "id": "a-plot-revealed",
+        "name": "A Plot Revealed"
+      },
+      {
+        "id": "necromancers-amulet",
+        "name": "The Necromancer's Amulet"
+      },
+      {
+        "id": "bloodworm-helm",
+        "name": "The Bloodworm Helm"
+      },
+      {
+        "id": "ambush",
+        "name": "Ambush"
+      }
+    ],
+    "otherQuests": [
+      {
+        "id": "alchemy-acquisitions",
+        "name": "Alchemy Aquisitions"
+      }
+    ]
+  }
+}
+
+
+{
+  "thievesGuild": {
+    "initiationQuests": [
+      {
+        "id": "finding-the-thieves-guild",
+        "name": "Finding the Thieves Guild"
+      }
+    ],
+    "armandChristopheQuests": [
+      {
+        "id": "may-the-best-thief-win",
+        "name": "May the Best Thief Win"
+      },
+      {
+        "id": "untaxing-the-poor",
+        "name": "Untaxing the Poor"
+      },
+      {
+        "id": "the-elven-maiden",
+        "name": "The Elven Maiden"
+      }
+    ],
+    "skrivvasQuests": [
+      {
+        "id": "ahdarjis-heirloom",
+        "name": "Ahdarji's Heirloom"
+      },
+      {
+        "id": "misdirection",
+        "name": "Misdirection"
+      },
+      {
+        "id": "lost-histories",
+        "name": "Lost Histories"
+      },
+      {
+        "id": "taking-care-of-lex",
+        "name": "Taking Care of Lex"
+      }
+    ],
+    "grayFoxsQuests": [
+      {
+        "id": "turning-a-blind-eye",
+        "name": "Turning a Blind Eye"
+      },
+      {
+        "id": "arrow-of-extrication",
+        "name": "Arrow of Extrication"
+      },
+      {
+        "id": "boots-of-springheel-jak",
+        "name": "Boots of Springheel Jak"
+      },
+      {
+        "id": "the-ultimate-heist",
+        "name": "The Ultimate Heist"
+      }
+    ],
+    "otherQuests": [
+      {
+        "id": "independent-thievery",
+        "name": "Independent Thievery"
+      }
+    ]
+  }
+}
+
+
+{
+  "villagesAndInnsQuests": [
+    { "id": "go-fish", "questName": "Go Fish" },
+    { "id": "the-sunken-one", "questName": "The Sunken One" },
+    { "id": "the-potato-snatcher", "questName": "The Potato Snatcher" },
+    { "id": "bear-season", "questName": "Bear Season" },
+    { "id": "revenge-served-cold", "questName": "Revenge Served Cold" },
+    { "id": "the-gravefinders-repose", "questName": "The Gravefinder's Repose" },
+    { "id": "no-stone-unturned", "questName": "No Stone Unturned" },
+    { "id": "a-venerable-vintage", "questName": "A Venerable Vintage" },
+    { "id": "when-the-vow-breaks", "questName": "When the Vow Breaks" },
+    { "id": "zero-visibility", "questName": "Zero Visibility" },
+    { "id": "goblin-trouble", "questName": "Goblin Trouble" }
+  ]
+}
+
+
+{
+  "daedricQuests": [
+    { "id": "azura", "questName": "Azura" },
+    { "id": "boethia", "questName": "Boethia" },
+    { "id": "clavicus-vile", "questName": "Clavicus Vile" },
+    { "id": "hermaeus-mora", "questName": "Hermaeus Mora" },
+    { "id": "hircine", "questName": "Hircine" },
+    { "id": "malacath", "questName": "Malacath" },
+    { "id": "mephala", "questName": "Mephala" },
+    { "id": "meridia", "questName": "Meridia" },
+    { "id": "molag-bal", "questName": "Molag Bal" },
+    { "id": "namira", "questName": "Namira" },
+    { "id": "nocturnal", "questName": "Nocturnal" },
+    { "id": "peryite", "questName": "Peryite" },
+    { "id": "sanguine", "questName": "Sanguine" },
+    { "id": "sheogorath", "questName": "Sheogorath" },
+    { "id": "vaermina", "questName": "Vaermina" }
+  ]
+}
+
+
+{
+  "masterTraining": [
+    { "id": "acrobatics-training", "questName": "Acrobatics Training" },
+    { "id": "alchemy-training", "questName": "Alchemy Training" },
+    { "id": "alteration-training", "questName": "Alteration Training" },
+    { "id": "armorer-training", "questName": "Armorer Training" },
+    { "id": "athletics-training", "questName": "Athletics Training" },
+    { "id": "blade-training", "questName": "Blade Training" },
+    { "id": "block-training", "questName": "Block Training" },
+    { "id": "blunt-training", "questName": "Blunt Training" },
+    { "id": "conjuration-training", "questName": "Conjuration Training" },
+    { "id": "destruction-training", "questName": "Destruction Training" },
+    { "id": "hand-to-hand-training", "questName": "Hand to Hand Training" },
+    { "id": "heavy-armor-training", "questName": "Heavy Armor Training" },
+    { "id": "illusion-training", "questName": "Illusion Training" },
+    { "id": "light-armor-training", "questName": "Light Armor Training" },
+    { "id": "marksman-training", "questName": "Marksman Training" },
+    { "id": "mercantile-training", "questName": "Mercantile Training" },
+    { "id": "mysticism-training", "questName": "Mysticism Training" },
+    { "id": "restoration-training", "questName": "Restoration Training" },
+    { "id": "security-training", "questName": "Security Training" },
+    { "id": "sneak-training", "questName": "Sneak Training" },
+    { "id": "speechcraft-training", "questName": "Speechcraft Training" }
+  ]
+}
+
+
+{
+  "arena": [
+    { "id": "the-arena", "questName": "The Arena" },
+    { "id": "arena-grand-champion", "questName": "Arena Grand Champion" }
+  ]
+}
+
+{
+  "darkBrotherhood": {
+    "initiationQuest": [
+      { "id": "a-knife-in-the-dark", "questName": "A Knife in the Dark" }
+    ],
+    "vicenteValtierisQuests": [
+      { "id": "a-watery-grave", "questName": "A Watery Grave" },
+      { "id": "accidents-happen", "questName": "Accidents Happen" },
+      { "id": "scheduled-for-execution", "questName": "Scheduled for Execution" },
+      { "id": "the-assassinated-man", "questName": "The Assassinated Man" }
+    ],
+    "ocheevasQuests": [
+      { "id": "the-lonely-wanderer", "questName": "The Lonely Wanderer" },
+      { "id": "bad-medicine", "questName": "Bad Medicine" },
+      { "id": "whodunit", "questName": "Whodunit?" },
+      { "id": "permanent-retirement", "questName": "Permanent Retirement" }
+    ],
+    "lucienLachancesQuest": [
+      { "id": "the-purification", "questName": "The Purification" }
+    ],
+    "blackHandQuestsDeadDrop": [
+      { "id": "affairs-of-a-wizard", "questName": "Affairs of a Wizard" },
+      { "id": "next-of-kin", "questName": "Next of Kin" },
+      { "id": "broken-vows", "questName": "Broken Vows" },
+      { "id": "final-justice", "questName": "Final Justice" },
+      { "id": "a-matter-of-honor", "questName": "A Matter of Honor" },
+      { "id": "the-coldest-sleep", "questName": "The Coldest Sleep" },
+      { "id": "a-kiss-before-dying", "questName": "A Kiss Before Dying" }
+    ],
+    "lucienLachancesQuest2": [
+      { "id": "following-a-lead", "questName": "Following a Lead" }
+    ],
+    "blackHandQuests": [
+      { "id": "honor-thy-mother", "questName": "Honor Thy Mother" },
+      { "id": "whispers-of-death", "questName": "Whispers of Death" }
+    ],
+    "nonContractQuests": [
+      { "id": "the-renegade-shadowscale", "questName": "The Renegade Shadowscale" },
+      { "id": "darkness-eternal", "questName": "Darkness Eternal" }
+    ]
+  }
+}
+
+
+{
+  "mainCityQuests": [
+    { "id": "newheims-flagon", "questName": "Newheim's Flagon" },
+    { "id": "where-spirits-have-lease", "questName": "Where Spirits Have Lease" },
+    { "id": "the-sirens-deception", "questName": "The Siren's Deception" },
+    { "id": "the-ghost-ship-of-anvil", "questName": "The Ghost Ship of Anvil" },
+    { "id": "caught-in-the-hunt", "questName": "Caught in the Hunt" },
+    { "id": "through-a-nightmare-darkly", "questName": "Through a Nightmare, Darkly" },
+    { "id": "the-forlorn-watchman", "questName": "The Forlorn Watchman" },
+    { "id": "buying-a-house-in-bravil", "questName": "Buying a House in Bravil" },
+    { "id": "two-sides-of-the-coin", "questName": "Two Sides of the Coin" },
+    { "id": "a-brotherhood-betrayed", "questName": "A Brotherhood Betrayed" },
+    { "id": "lifting-the-vale", "questName": "Lifting the Vale" },
+    { "id": "buying-a-house-in-bruma", "questName": "Buying a House in Bruma" },
+    { "id": "a-brush-with-death", "questName": "A Brush with Death" },
+    { "id": "buying-a-house-in-cheydinhal", "questName": "Buying a House in Cheydinhal" },
+    { "id": "corruption-and-conscience", "questName": "Corruption and Conscience" },
+    { "id": "the-wayward-knight", "questName": "The Wayward Knight" },
+    { "id": "the-killing-field", "questName": "The Killing Field" },
+    { "id": "separated-at-birth", "questName": "Separated at Birth" },
+    { "id": "legacy-lost", "questName": "Legacy Lost" },
+    { "id": "sins-of-the-father", "questName": "Sins of the Father" },
+    { "id": "a-shadow-over-hackdirt", "questName": "A Shadow Over Hackdirt" },
+    { "id": "canvas-the-castle", "questName": "Canvas the Castle" },
+    { "id": "buying-a-house-in-chorrol", "questName": "Buying a House in Chorrol" },
+    { "id": "buy-a-house-in-the-imperial-city", "questName": "Buy a House in the Imperial City" },
+    { "id": "unfriendly-competition", "questName": "Unfriendly Competition" },
+    { "id": "the-collector", "questName": "The Collector" },
+    { "id": "nothing-you-can-possess", "questName": "Nothing You Can Possess" },
+    { "id": "secret-of-the-ayleids", "questName": "Secret of the Ayleids" },
+    { "id": "the-order-of-the-virtuous-blood", "questName": "The Order of the Virtuous Blood" },
+    { "id": "imperial-corruption", "questName": "Imperial Corruption" },
+    { "id": "an-unexpected-voyage", "questName": "An Unexpected Voyage" },
+    { "id": "origin-of-the-gray-prince", "questName": "Origin of the Gray Prince" },
+    { "id": "vampire-cure", "questName": "Vampire Cure" },
+    { "id": "raid-on-greyland", "questName": "Raid on Greyland" },
+    { "id": "tears-of-the-savior", "questName": "Tears of the Savior" },
+    { "id": "whom-gods-destroy", "questName": "Whom Gods Destroy" },
+    { "id": "mazoga-the-orc", "questName": "Mazoga the Orc" },
+    { "id": "knights-of-the-white-stallion", "questName": "Knights of the White Stallion" },
+    { "id": "buying-a-house-in-leyawiin", "questName": "Buying a House in Leyawiin" },
+    { "id": "paranoia", "questName": "Paranoia" },
+    { "id": "buying-a-house-in-skingrad", "questName": "Buying a House in Skingrad" },
+    { "id": "helping-hands", "questName": "Helping Hands" },
+    { "id": "the-rosethorn-cache", "questName": "The Rosethorn Cache" },
+    { "id": "seeking-your-roots", "questName": "Seeking Your Roots" }
+  ]
+}
+
+
+{
+  "nonJournalQuests": [
+    { "id": "attack-on-fort-sutch", "questName": "Attack on Fort Sutch" },
+    { "id": "the-forgotten-chests-of-pale-pass", "questName": "The Forgotten Chests of Pale Pass" },
+    { "id": "the-horror-of-dive-rock", "questName": "The Horror of Dive Rock" },
+    { "id": "black-bow-bandits", "questName": "Black Bow Bandits" },
+    { "id": "lich-of-lost-boy-cavern", "questName": "Lich of Lost Boy Cavern" },
+    { "id": "the-unbeaten-path", "questName": "The Unbeaten Path" },
+    { "id": "illegal-cargo", "questName": "Illegal Cargo" }
+  ]
+}
+
+
+{
+  "skillBooksRead": [
+    { "id": "the-black-arrow-v1", "bookTitle": "The Black Arrow, v1" },
+    { "id": "mythic-dawn-commentaries-1", "bookTitle": "Mythic Dawn Commentaries 1" },
+    { "id": "mythic-dawn-commentaries-4", "bookTitle": "Mythic Dawn Commnetaries 4" },
+    { "id": "a-dance-with-fire-v1", "bookTitle": "A Dance with Fire, v1" },
+    { "id": "the-warriors-charge", "bookTitle": "The Warrior's Charge" },
+    { "id": "souls-black-and-white", "bookTitle": "Souls, Black and White" },
+    { "id": "a-dance-with-fire-v4", "bookTitle": "A Dance with Fire, v4" },
+    { "id": "the-art-of-war-magic", "bookTitle": "The Art of War Magic" },
+    { "id": "2920-rains-hand", "bookTitle": "2920, Rain's Hand" },
+    { "id": "mystery-of-talara-v1", "bookTitle": "Mystery of Talara, v1" },
+    { "id": "the-horrors-of-castle-xyr", "bookTitle": "The Horrors of Castle Xyr" },
+    { "id": "the-exodus", "bookTitle": "The Exodus" },
+    { "id": "thief", "bookTitle": "Thief" },
+    { "id": "a-hypothetical-treachery", "bookTitle": "A Hypothetical Treachery" },
+    { "id": "mystery-of-talara-v2", "bookTitle": "Mystery of Talara, v2" },
+    { "id": "calcinator-treatise", "bookTitle": "Calcinator Treatise" },
+    { "id": "mystery-of-talara-v3", "bookTitle": "Mystery of Talara, v3" },
+    { "id": "notes-on-racial-phylogeny", "bookTitle": "Notes on Racial Phylogeny" },
+    { "id": "de-rerum-dirennis", "bookTitle": "De Rerum Dirennis" },
+    { "id": "mythic-dawn-commentaries-2", "bookTitle": "Mythic Dawn Commentaries 2" },
+    { "id": "withershins", "bookTitle": "Withershins" },
+    { "id": "a-game-at-dinner", "bookTitle": "A Game at Dinner" },
+    { "id": "response-to-beros-speech", "bookTitle": "Response to Bero's Speech" },
+    { "id": "advances-in-lockpicking", "bookTitle": "Advances in Lockpicking" },
+    { "id": "mannimarco-king-of-worms", "bookTitle": "Mannimarco, King of Worms" },
+    { "id": "ahzirr-traajijazeri", "bookTitle": "Ahzirr Traajijazeri" },
+    { "id": "the-locked-room", "bookTitle": "The Locked Room" },
+    { "id": "song-of-the-alchemists", "bookTitle": "Song of the Alchemists" },
+    { "id": "immortal-blood", "bookTitle": "Immortal Blood" },
+    { "id": "proper-lock-design", "bookTitle": "Proper Lock Design" },
+    { "id": "daughter-of-the-niben", "bookTitle": "Daughter of the Niben" },
+    { "id": "master-zoarayms-tale", "bookTitle": "Master Zoaraym's Tale" },
+    { "id": "surfeit-of-thieves", "bookTitle": "Surfeit of Thieves" },
+    { "id": "the-dragon-break", "bookTitle": "The Dragon Break" },
+    { "id": "way-of-the-exposed-palm", "bookTitle": "Way of the Exposed Palm" },
+    { "id": "the-wolf-queen-v1", "bookTitle": "The Wolf Queen, v1" },
+    { "id": "the-lunar-lorkhan", "bookTitle": "The Lunar Lorkhan" },
+    { "id": "the-wolf-queen-v2", "bookTitle": "The Wolf Queen, v2" },
+    { "id": "2920-last-seed", "bookTitle": "2920, Last Seed" },
+    { "id": "reality-and-other-falsehoods", "bookTitle": "Reality & Other Falsehoods" },
+    { "id": "2920-midyear", "bookTitle": "2920, MidYear" },
+    { "id": "legend-of-krately-house", "bookTitle": "Legend of Krately House" },
+    { "id": "sithis", "bookTitle": "Sithis" },
+    { "id": "chimarvamidium", "bookTitle": "Chimarvamidium" },
+    { "id": "purloined-shadows", "bookTitle": "Purloined Shadows" },
+    { "id": "the-armoners-challenge", "bookTitle": "The Armorer's Challenge" },
+    { "id": "fighters-guild-history-1st-ed", "bookTitle": "Fighters Guild History, 1st Ed." },
+    { "id": "sacred-witness", "bookTitle": "Sacred Witness" },
+    { "id": "cherims-heart-of-anequina", "bookTitle": "Cherim's Heart of Anequina" },
+    { "id": "hallgerds-tale", "bookTitle": "Hallgerd's Tale" },
+    { "id": "the-wolf-queen-v6", "bookTitle": "The Wolf Queen, v6" },
+    { "id": "heavy-armor-repair", "bookTitle": "Heavy Armor Repair" },
+    { "id": "history-of-the-fighters-guild", "bookTitle": "History of the Fighters Guild" },
+    { "id": "2920-second-seed", "bookTitle": "2920, Second Seed" },
+    { "id": "last-scabbard-of-akrash", "bookTitle": "Last Scabbard of Akrash" },
+    { "id": "how-orsinium-passed-to-orcs", "bookTitle": "How Orsinium Passed to Orcs" },
+    { "id": "biography-of-the-wolf-queen", "bookTitle": "Biography of the Wolf Queen" },
+    { "id": "light-armor-repair", "bookTitle": "Light Armor Repair" },
+    { "id": "the-argonian-account-book-3", "bookTitle": "The Argonian Account, Book 3" },
+    { "id": "the-wolf-queen-v5", "bookTitle": "The Wolf Queen, v5" },
+    { "id": "the-argonian-account-book-1", "bookTitle": "The Argonian Account, Book 1" },
+    { "id": "incident-in-necrom", "bookTitle": "Incident in Necrom" },
+    { "id": "the-wolf-queen-v7", "bookTitle": "The Wolf Queen, v7" },
+    { "id": "beggar", "bookTitle": "Beggar" },
+    { "id": "mystery-of-talara-v4", "bookTitle": "Mystery of Talara, v4" },
+    { "id": "a-dance-with-fire-v3", "bookTitle": "A Dance with Fire, v3" },
+    { "id": "mythic-dawn-commentaries-3", "bookTitle": "Mythic Dawn Commentaries 3" },
+    { "id": "the-ransom-of-zarek", "bookTitle": "The Ransom of Zarek" },
+    { "id": "palla-volume-1", "bookTitle": "Palla, Volume 1" },
+    { "id": "the-red-kitchen-reader", "bookTitle": "The Red Kitchen Reader" },
+    { "id": "the-wolf-queen-v3", "bookTitle": "The Wolf Queen, v3" },
+    { "id": "2920-morning-star", "bookTitle": "2920, Morning Star" },
+    { "id": "ice-and-chitin", "bookTitle": "Ice and Chitin" },
+    { "id": "battle-of-sancre-tor", "bookTitle": "Battle of Sancre Tor" },
+    { "id": "lord-jornibrets-last-dance", "bookTitle": "Lord Jornibret's Last Dance" },
+    { "id": "fire-and-darkness", "bookTitle": "Fire and Darkness" },
+    { "id": "the-rear-guard", "bookTitle": "The Rear Guard" },
+    { "id": "song-of-hrormir", "bookTitle": "Song of Hrormir" },
+    { "id": "the-refugees", "bookTitle": "The Refugees" },
+    { "id": "words-and-philosophy", "bookTitle": "Words and Philosophy" },
+    { "id": "rislav-the-righteous", "bookTitle": "Rislav the Righteous" },
+    { "id": "a-dance-of-fire-v2", "bookTitle": "A Dance of Fire, v2" },
+    { "id": "the-black-arrow-v2", "bookTitle": "The Black Arrow, v2" },
+    { "id": "death-blow-of-abernanit", "bookTitle": "Death Blow of Abernanit" },
+    { "id": "a-dance-in-fire-v5", "bookTitle": "A Dance in Fire, v5" },
+    { "id": "the-mirror", "bookTitle": "The Mirror" },
+    { "id": "father-of-the-niben", "bookTitle": "Father of the Niben" },
+    { "id": "the-warp-in-the-west", "bookTitle": "The Warp in the West" },
+    { "id": "the-gold-ribben-of-merit", "bookTitle": "The Gold Ribben of Merit" },
+    { "id": "warrior", "bookTitle": "Warrior" },
+    { "id": "vernaccus-and-bourlor", "bookTitle": "Vernaccus and Bourlor" },
+    { "id": "the-importance-of-where", "bookTitle": "The Importance of Where" },
+    { "id": "2920-suns-height", "bookTitle": "2920, Sun's Height" },
+    { "id": "king", "bookTitle": "King" },
+    { "id": "the-buying-game", "bookTitle": "The Buying Game" },
+    { "id": "the-legendary-sancre-tor", "bookTitle": "The Legendary Sancre Tor" },
+    { "id": "a-dance-in-fire-v6", "bookTitle": "A Dance in Fire, v6" },
+    { "id": "mace-etiquette", "bookTitle": "Mace Etiquette" },
+    { "id": "a-dance-in-fire-v7", "bookTitle": "A Dance in Fire, v7" },
+    { "id": "night-falls-on-sentinel", "bookTitle": "Night Falls on Sentinel" },
+    { "id": "the-wolf-queen-v4", "bookTitle": "The Wolf Queen, v4" },
+    { "id": "2920-frostfall", "bookTitle": "2920, Frostfall" },
+    { "id": "2920-suns-dawn", "bookTitle": "2920, Sun's Dawn" },
+    { "id": "2920-hearth-fire", "bookTitle": "2920, Hearth Fire" },
+    { "id": "before-the-ages-of-man", "bookTitle": "Before the Ages of Man" },
+    { "id": "the-doors-of-oblivion", "bookTitle": "The Doors of Oblivion" },
+    { "id": "the-black-arts-on-trial", "bookTitle": "The Black Arts on Trial" },
+    { "id": "liminal-bridges", "bookTitle": "Liminal Bridges" },
+    { "id": "the-firsthold-revolt", "bookTitle": "The Firsthold Revolt" }
+  ]
+}
+
+
+{
+  "artifacts": [
+    { "id": "blackwater-blade", "artifactName": "Blackwater Blade" },
+    { "id": "chillrend", "artifactName": "Chillrend" },
+    { "id": "debaser", "artifactName": "Debaser" },
+    { "id": "ebony-blade", "artifactName": "Ebony Blade" },
+    { "id": "gold-brand", "artifactName": "Gold Brand" },
+    { "id": "mace-of-molag-bal", "artifactName": "Mace of Molag Bal" },
+    { "id": "rugdumphs-sword", "artifactName": "Rugdumph's Sword" },
+    { "id": "thornblade", "artifactName": "Thornblade" },
+    { "id": "umbra", "artifactName": "Umbra" },
+    { "id": "volendrung", "artifactName": "Volendrung" },
+    { "id": "witsplinter", "artifactName": "Witsplinter" },
+    { "id": "apron-of-adriotness", "artifactName": "Apron of Adriotness" },
+    { "id": "ayleid-crown-of-lindai", "artifactName": "Ayleid Crown of Lindai" },
+    { "id": "ayleid-crown-of-nenalata", "artifactName": "Ayleid Crown of Nenalata" },
+    { "id": "bloodworm-helm", "artifactName": "Bloodworm Helm" },
+    { "id": "boots-of-bloody-bounding", "artifactName": "Boots of Bloody Bounding" },
+    { "id": "escutcheon-of-chorrol", "artifactName": "Escutcheon of Chorrol" },
+    { "id": "helm-of-oreyn-bearclaw", "artifactName": "Helm or Oreyn Bearclaw" },
+    { "id": "masque-of-clavicus-vile", "artifactName": "Masque of Clavicus Vile" },
+    { "id": "saviours-hide", "artifactName": "Saviour's Hide" },
+    { "id": "spell-breaker", "artifactName": "Spell Breaker" },
+    { "id": "draconian-madstone", "artifactName": "Draconian Madstone" },
+    { "id": "gray-cowl-of-nocturnal", "artifactName": "Gray Cowl of Nocturnal" },
+    { "id": "jewel-of-the-rumare", "artifactName": "Jewel of the Rumare" },
+    { "id": "necromancers-amulet", "artifactName": "Necromancer's Amulet" },
+    { "id": "ring-of-eidolons-edge", "artifactName": "Ring of Eidolon's Edge" },
+    { "id": "ring-of-khajiiti", "artifactName": "Ring of Khajiiti" },
+    { "id": "ring-of-namira", "artifactName": "Ring of Namira" },
+    { "id": "ring-of-sunfire", "artifactName": "Ring of Sunfire" },
+    { "id": "spelldrinker-amulet", "artifactName": "Spelldrinker Amulet" },
+    { "id": "weatherward-circlet", "artifactName": "Weatherward Circlet" },
+    { "id": "hrormirs-icestaff", "artifactName": "Hrormir's Icestaff" },
+    { "id": "sanguine-rose", "artifactName": "Sanguine Rose" },
+    { "id": "skull-of-corruption", "artifactName": "Skull of Corruption" },
+    { "id": "staff-of-the-everscamp", "artifactName": "Staff of the Everscamp" },
+    { "id": "staff-of-indarys", "artifactName": "Staff of Indarys" },
+    { "id": "staff-of-worms", "artifactName": "Staff of Worms" },
+    { "id": "wabbajack", "artifactName": "Wabbajack" },
+    { "id": "azuras-star", "artifactName": "Azura's Star" },
+    { "id": "oghma-infinium", "artifactName": "Oghma Infinium" },
+    { "id": "skeleton-key", "artifactName": "Skeleton Key" }
+  ]
+}
+
+
+{
+  "horsesCollected": [
+    { "id": "armored-old-nag", "horseName": "Armored Old Nag" },
+    { "id": "paint-horse-bruma", "horseName": "Paint Horse (Bruma)" },
+    { "id": "paint-horse-leyawiin", "horseName": "Paint Horse (Leyawiin)" },
+    { "id": "bay-horse-bravil", "horseName": "Bay Horse (Bravil)" },
+    { "id": "bay-horse-skingrad", "horseName": "Bay Horse (Skingrad)" },
+    { "id": "chestnut-horse", "horseName": "Chestnut Horse" },
+    { "id": "white-horse", "horseName": "White Horse" },
+    { "id": "black-horse", "horseName": "Black Horse" },
+    { "id": "shadowmere", "horseName": "Shadowmere" }
+  ]
+}
+
+
+{
+  "housesCollected": [
+    { "id": "anvil", "houseName": "Anvil" },
+    { "id": "bravil", "houseName": "Bravil" },
+    { "id": "bruma", "houseName": "Bruma" },
+    { "id": "cheydinhal", "houseName": "Cheydinhal" },
+    { "id": "chorrol", "houseName": "Chorrol" },
+    { "id": "imperial-city", "houseName": "Imperial City" },
+    { "id": "leyawiin", "houseName": "Leyawiin" },
+    { "id": "skingrad", "houseName": "Skingrad" },
+    { "id": "battlehorn-castle", "houseName": "Battlehorn Castle" },
+    { "id": "deepscorn-hollow", "houseName": "Deepscorn Hollow" },
+    { "id": "dunbarrow-cave", "houseName": "Dunbarrow Cave" },
+    { "id": "frostcrag-spire", "houseName": "Frostcrag Spire" },
+    { "id": "priory-of-the-nine", "houseName": "Priory of the Nine" }
+  ]
+}
+
+{
+  "locations": [
+    { "id": "hrota-cave", "locationName": "Hrota Cave" },
+    { "id": "imperial-sewers-n-exit", "locationName": "Imperial Sewers N. Exit" },
+    { "id": "imperial-sewers-se-exit", "locationName": "Imperial Sewers SE. Exit" },
+    { "id": "imperial-prison-sewer-tutorial", "locationName": "Imperial Prison Sewer (Tutorial)" },
+    { "id": "imperial-prison-sewer-scheduled-for-execution", "locationName": "Imperial Prison Sewer (Scheduled for Execution)" },
+    { "id": "jakben-imbels-house", "locationName": "Jakben Imbel's House" },
+    { "id": "kindred-cave", "locationName": "Kindred Cave" },
+    { "id": "kingscrest-cavern", "locationName": "Kingscrest Cavern" },
+    { "id": "lake-arrius-caverns", "locationName": "Lake Arrius Caverns" },
+    { "id": "leafrot-cave", "locationName": "Leafrot Cave" },
+    { "id": "lost-boy-cavern", "locationName": "Lost Boy Cavern" },
+    { "id": "memorial-cave", "locationName": "Memorial Cave" },
+    { "id": "mingo-cave", "locationName": "Mingo Cave" },
+    { "id": "mongrels-tooth-cave", "locationName": "Mongrel's Tooth Cave" },
+    { "id": "moss-rock-cavern", "locationName": "Moss Rock Cavern" },
+    { "id": "muck-valley-cavern", "locationName": "Muck Valley Cavern" },
+    { "id": "newt-cave", "locationName": "Newt Cave" },
+    { "id": "nisin-cave", "locationName": "Nisin Cave" },
+    { "id": "nonwyll-caverns", "locationName": "Nonwyll Caverns" },
+    { "id": "onyx-caverns", "locationName": "Onyx Caverns" },
+    { "id": "outlaw-endres-cave", "locationName": "Outlaw Endre's Cave" },
+    { "id": "pothole-caverns", "locationName": "Pothole Caverns" },
+    { "id": "quickwater-cave", "locationName": "Quickwater Cave" },
+    { "id": "red-ruby-cave", "locationName": "Red Ruby Cave" },
+    { "id": "redguard-valley-cave", "locationName": "Redguard Valley Cave" },
+    { "id": "redwater-slough", "locationName": "Redwater Slough" },
+    { "id": "reedstand-cave", "locationName": "Reedstand Cave" },
+    { "id": "robbers-glen-cave", "locationName": "Robber's Glen Cave" },
+    { "id": "rock-bottom-caverns", "locationName": "Rock Bottom Caverns" },
+    { "id": "rockmilk-cave", "locationName": "Rockmilk Cave" },
+    { "id": "sage-glen-hollow", "locationName": "Sage Glen Hollow" },
+    { "id": "sandstone-cavern", "locationName": "Sandstone cavern" },
+    { "id": "serpent-hollow-cave", "locationName": "Serpent Hollow Cave" },
+    { "id": "serpents-trail", "locationName": "Serpent's Trail" },
+    { "id": "shadows-rest-cavern", "locationName": "Shadow's Rest Cavern" },
+    { "id": "shattered-scales-cave", "locationName": "Shattered Scales Cave" },
+    { "id": "shinbone-cave", "locationName": "Shinbone Cave" },
+    { "id": "sideways-cave", "locationName": "Sideways Cave" },
+    { "id": "silver-tooth-cave", "locationName": "Silver Tooth Cave" },
+    { "id": "sinkhole-cave", "locationName": "Sinkhole Cave" },
+    { "id": "smoke-hole-cave", "locationName": "Smoke Hole Cave" },
+    { "id": "smugglers-cave", "locationName": "Smuggler's Cave" },
+    { "id": "swampy-cave", "locationName": "Swampy Cave" },
+    { "id": "temple-of-the-ancestor-monks", "locationName": "Temple of the Ancestor Monks" },
+    { "id": "tidewater-cave", "locationName": "Tidewater Cave" },
+    { "id": "timberscar-hollow", "locationName": "Timberscar Hollow" },
+    { "id": "toadstool-hollow", "locationName": "Toadstool Hollow" },
+    { "id": "underpall-cave", "locationName": "Underpall Cave" },
+    { "id": "undertow-cavern", "locationName": "Undertow Cavern" },
+    { "id": "unmarked-cave", "locationName": "Unmarked Cave" },
+    { "id": "veyond-cave", "locationName": "Veyond Cave" },
+    { "id": "wellspring-cave", "locationName": "Wellspring Cave" },
+    { "id": "wenderbek-cave", "locationName": "Wenderbek Cave" },
+    { "id": "wind-cave", "locationName": "Wind Cave" },
+    { "id": "yellow-tick-cave", "locationName": "Yellow Tick Cave" }
+  ]
+}
+
+{
+  "oblivionGates": [
+    { "id": "kvatch-start-of-game", "location": "Kvatch", "condition": "Start of Game" },
+    { "cheydinhal-after-dagon-shrine", "location": "Cheydinhal", "condition": "After Dagon Shrine" },
+    { "fort-sutch-after-dagon-shrine", "location": "Fort Sutch", "condition": "After Dagon Shrine" },
+    { "anvil-after-dagon-shrine", "location": "Anvil", "condition": "After Dagon Shrine" },
+    { "chorrol-after-dagon-shrine", "location": "Chorrol", "condition": "After Dagon Shrine" },
+    { "leyawiin-after-dagon-shrine", "location": "Leyawiin", "condition": "After Dagon Shrine" },
+    { "skingrad-after-dagon-shrine", "location": "Skingrad", "condition": "After Dagon Shrine" },
+    { "bravil-after-dagon-shrine", "location": "Bravil", "condition": "After Dagon Shrine" },
+    { "bruma-during-bruma-gate", "location": "Bruma", "condition": "During Bruma Gate" },
+    { "great-gate-during-great-gate", "location": "Great Gate", "condition": "During Great Gate" },
+
+    { "sw-panther-river-south-welke-random", "location": "Southwest of Panther River, south of Welke", "condition": "Random" },
+    { "ne-leyawiin-east-fieldhouse-cave-random", "location": "Northeast of Leyawiin, east of Fieldhouse Cave", "condition": "Random" },
+    { "se-arpenia-random", "location": "Slightly southeast of Arpenia", "condition": "Random" },
+    { "n-leyawiin-nw-blankenmarch-random", "location": "North of Leyawiin, northwest of Blankenmarch", "condition": "Random" },
+    { "n-leyawiin-random", "location": "Slightly north of Leyawiin", "condition": "Random" },
+    { "se-leyawiin-between-darkfathom-fort-blueblood-random", "location": "Southeast of Leyawiin, between Darkfathom Cave and Fort Blueblood", "condition": "Random" },
+    { "se-leyawiin-sw-fort-blueblood-random", "location": "Southeast of Leyawiin, southwest of Fort Blueblood", "condition": "Random" },
+    { "se-leyawiin-east-bogwater-random", "location": "Southeast of Leyawiin, east of Bogwater", "condition": "Random" },
+    { "se-leyawiin-peninsula-topal-bay-random", "location": "Southeast of Leyawiin, on a peninsula in Topal Bay", "condition": "Random" },
+    { "se-bravil-sw-mouth-panther-random", "location": "Southeast of Bravil, southwest of Mouth of the Panther", "condition": "Random" },
+    { "n-leyawiin-along-green-road-random", "location": "North of Leyawiin, along the Green Road", "condition": "Random" },
+    { "s-morahame-next-to-bridge-random", "location": "South of Morahame, next to bridge", "condition": "Random" },
+    { "n-chorrol-se-lipsand-tarn-random", "location": "North of Chorrol, southeast of Lipsand Tarn", "condition": "Random" },
+    { "w-chorrol-random", "location": "West of Chorrol", "condition": "Random" },
+    { "sw-chorrol-w-wendir-random", "location": "Southwest of Chorrol, west of Wendir", "condition": "Random" },
+    { "nw-kvatch-random", "location": "Northwest of Kvatch", "condition": "Random" },
+    { "ne-kvatch-random", "location": "Northeast of Kvatch", "condition": "Random" },
+    { "nw-kvatch-ne-trumbe-random", "location": "Northwest of Kvatch, northeast of Trumbe", "condition": "Random" },
+    { "sw-varondo-random", "location": "Southwest of Varondo", "condition": "Random" },
+    { "ne-varondo-sw-fort-ontus-random", "location": "Northeast of Varondo, southwest of Fort Ontus", "condition": "Random" },
+    { "sw-fort-dirich-random", "location": "Southwest of Fort Dirich", "condition": "Random" },
+    { "nw-fort-dirich-se-nonungalo-random", "location": "Northwest of Fort Dirich, southeast of Nonungalo", "condition": "Random" },
+    { "ne-fort-ontus-random", "location": "Northeast of Fort Ontus", "condition": "Random" },
+    { "e-fort-rayles-random", "location": "East of Fort Rayles", "condition": "Random" },
+    { "sw-fort-rayles-n-black-road-random", "location": "Southwest of Fort Rayles, north of Black Road", "condition": "Random" },
+    { "nw-garlas-agea-random", "location": "Northwest of Garlas Agea", "condition": "Random" },
+    { "se-anvil-s-fort-strand-random", "location": "Southeast of Anvil, south of Fort Strand", "condition": "Random" },
+    { "n-anvil-e-beldaburo-random", "location": "North of Anvil, east of Beldaburo", "condition": "Random" },
+    { "se-anvil-s-troll-candle-camp-random", "location": "Southeast of Anvil, south of Troll Candle Camp", "condition": "Random" },
+    { "n-fort-sutch-w-niryastare-random", "location": "North of Fort Sutch, west of Niryastare", "condition": "Random" },
+    { "s-bruma-silver-orange-roads-junction-random", "location": "South of Bruma, Silver/Orange Roads junction", "condition": "Random" },
+    { "sw-bruma-sw-piukanda-random", "location": "Southwest of Bruma, southwest of Piukanda", "condition": "Random" },
+    { "s-bruma-w-sercen-random", "location": "South of Bruma, west of Sercen", "condition": "Random" },
+    { "nw-bravil-e-wenyandawik-random", "location": "Northwest of Bravil, east of Wenyandawik", "condition": "Random" },
+    { "nw-bravil-nw-wenyandawik-random", "location": "Northwest of Bravil, northwest of Wenyandawik", "condition": "Random" },
+    { "nw-bravil-sw-nenyond-twyll-random", "location": "Northwest of Bravil, southwest of Nenyond Twyll", "condition": "Random" },
+    { "w-white-rose-river-nw-fort-roebeck-random", "location": "West of White Rose River, NW of Fort Roebeck", "condition": "Random" },
+    { "e-white-rose-river-ne-fort-roebeck-random", "location": "East of White Rose River, NE of Fort Roebeck", "condition": "Random" },
+    { "se-fort-wooden-hand-nw-ceyatatar-random", "location": "Southeast of Fort Wooden Hand, NW of Ceyatatar", "condition": "Random" },
+    { "nw-fort-nikel-random", "location": "Northwest of Fort Nikel", "condition": "Random" },
+    { "ne-fort-chalman-nw-harms-folly-random", "location": "Northeast of Fort Chalman, NW of Harm's Folly", "condition": "Random" },
+    { "ne-belda-e-harms-folly-random", "location": "Northeast of Belda, east of Harm's Folly", "condition": "Random" },
+    { "e-chorrol-nw-fort-ash-random", "location": "East of Chorrol, NW of Fort Ash", "condition": "Random" },
+    { "se-arcane-university-city-isle-random", "location": "Southeast of Arcane University, City Isle", "condition": "Random" },
+    { "ne-vilverin-random", "location": "Northeast of Vilverin", "condition": "Random" },
+    { "nw-roland-jenserics-cabin-random", "location": "NW of Roland Jenseric's Cabin", "condition": "Random" },
+    { "e-imperial-city-sw-nagastani-random", "location": "East of Imperial City, SW of Nagastani", "condition": "Random" },
+    { "se-imperial-city-w-cracked-wood-cave-random", "location": "Southeast of Imperial City, west of Cracked Wood Cave", "condition": "Random" },
+    { "se-imperial-city-s-culotte-random", "location": "Southeast of Imperial City, south of Culotte", "condition": "Random" },
+    { "n-bravil-n-fort-variela-random", "location": "North of Bravil, north of Fort Variela", "condition": "Random" },
+    { "n-chorrol-ne-lipsand-tarn-random", "location": "North of Chorrol, NE of Lipsand Tarn", "condition": "Random" },
+    { "w-bruma-s-applewatch-random", "location": "West of Bruma, south of Applewatch", "condition": "Random" },
+    { "n-cheydinhal-w-temple-of-ancestor-moths-random", "location": "North of Cheydinhal, west of Temple of Ancestor Moths", "condition": "Random" },
+    { "se-sedor-w-gutted-mine-random", "location": "SE of Sedor, west of Gutted Mine", "condition": "Random" },
+    { "w-bruma-ne-ninendava-random", "location": "West of Bruma, northeast of Ninendava", "condition": "Random" },
+    { "n-cheydinhal-e-wind-range-camp-random", "location": "North of Cheydinhal, east of Wind Range Camp", "condition": "Random" },
+    { "se-cheydinhal-near-reed-river-random", "location": "Southeast of Cheydinhal, near Reed River", "condition": "Random" },
+    { "sw-cheydinhal-near-lake-poppad-random", "location": "Southwest of Cheydinhal, near Lake Poppad", "condition": "Random" },
+    { "s-cheydinhal-near-river-fork-random", "location": "South of Cheydinhal, near river fork", "condition": "Random" },
+    { "s-wenderbek-cave-near-cracked-wood-cave-random", "location": "South of Wenderbek Cave, near Cracked Wood Cave", "condition": "Random" },
+    { "s-cheydinhal-e-fort-cedrian-random", "location": "South of Cheydinhal, east of Fort Cedrian", "condition": "Random" },
+    { "between-sage-glen-hollow-bramblepoint-cave-random", "location": "Between Sage Glen Hollow and Bramblepoint Cave", "condition": "Random" },
+    { "sw-hame-random", "location": "Southwest of Hame", "condition": "Random" },
+    { "s-fort-facian-random", "location": "South of Fort Facian", "condition": "Random" },
+    { "e-ondo-n-lost-boy-cavern-random", "location": "East of Ondo, north of Lost Boy Cavern", "condition": "Random" },
+    { "s-fort-cuptor-n-leafrot-cave-random", "location": "South of Fort Cuptor, north of Leafrot Cave", "condition": "Random" },
+    { "se-malada-ne-abandoned-mine-random", "location": "SE of Malada, NE of Abandoned Mine", "condition": "Random" },
+    { "n-fort-sejanus-random", "location": "North of Fort Sejanus", "condition": "Random" },
+    { "e-morahame-random", "location": "East of Morahame", "condition": "Random" },
+    { "ne-cheydinhal-n-kemen-random", "location": "NE of Cheydinhal, north of Kemen", "condition": "Random" },
+    { "nw-skingrad-sw-bleak-flats-cave-random", "location": "NW of Skingrad, SW of Bleak Flats Cave", "condition": "Random" },
+    { "e-skingrad-sw-fort-vlastarus-random", "location": "East of Skingrad, SW of Fort Vlastarus", "condition": "Random" },
+    { "ne-skingrad-along-gold-road-random", "location": "NE of Skingrad, along Gold Road", "condition": "Random" },
+    { "se-skingrad-e-silorn-random", "location": "SE of Skingrad, east of Silorn", "condition": "Random" },
+    { "w-skingrad-sw-cursed-mine-random", "location": "West of Skingrad, SW of Cursed Mine", "condition": "Random" },
+    { "s-kvatch-near-strid-river-random", "location": "South of Kvatch, near Strid River", "condition": "Random" },
+    { "se-skingrad-sw-priory-of-the-nine-random", "location": "SE of Skingrad, SW of Priory of the Nine", "condition": "Random" },
+    { "between-skingrad-bravil-destroying-isolated-house-random", "location": "Between Skingrad and Bravil, destroying Isolated House", "condition": "Random" },
+    { "e-nornalhorst-random", "location": "East of Nornalhorst", "condition": "Random" },
+    { "w-skingrad-sw-fat-ramp-camp-random", "location": "West of Skingrad, SW of Fat Ramp Camp", "condition": "Random" }
+  ]
+}
+
+
+{
+  "ayleidRuins": [
+    { "locationName": "Anga", "id": "anga" },
+    { "locationName": "Anutwyll", "id": "anutwyll" },
+    { "locationName": "Arpenia", "id": "arpenia" },
+    { "locationName": "Atatar", "id": "atatar" },
+    { "locationName": "Bawn", "id": "bawn" },
+    { "locationName": "Belda", "id": "belda" },
+    { "locationName": "Beldaburo", "id": "beldaburo" },
+    { "locationName": "Ceyatatar", "id": "ceyatatar" },
+    { "locationName": "Culotte", "id": "culotte" },
+    { "locationName": "Elenglynn", "id": "elenglynn" },
+    { "locationName": "Fanacas", "id": "fanacas" },
+    { "locationName": "Fanacasecul", "id": "fanacasecul" },
+    { "locationName": "Garlas Agea", "id": "garlas-agea" },
+    { "locationName": "Garlas Malatar", "id": "garlas-malatar" },
+    { "locationName": "Hame", "id": "hame" },
+    { "locationName": "Hrotanda Vale", "id": "hrotanda-vale" },
+    { "locationName": "Kemen", "id": "kemen" },
+    { "locationName": "Lindai", "id": "lindai" },
+    { "locationName": "Lipsand Tarn", "id": "lipsand-tarn" },
+    { "locationName": "Mackamentain", "id": "mackamentain" },
+    { "locationName": "Malada", "id": "malada" },
+    { "locationName": "Miscarcand", "id": "miscarcand" },
+    { "locationName": "Morahame", "id": "morahame" },
+    { "locationName": "Moranda", "id": "moranda" },
+    { "locationName": "Nagastani", "id": "nagastani" },
+    { "locationName": "Narfinsel", "id": "narfinsel" },
+    { "locationName": "Nenalata", "id": "nenalata" },
+    { "locationName": "Nenyond Twyll", "id": "nenyond-twyll" },
+    { "locationName": "Ninendava", "id": "ninendava" },
+    { "locationName": "Niryastare", "id": "niryastare" },
+    { "locationName": "Nonungalo", "id": "nonungalo" },
+    { "locationName": "Nornal", "id": "nornal" },
+    { "locationName": "Nornalhorst", "id": "nornalhorst" },
+    { "locationName": "The Old Way", "id": "the-old-way" },
+    { "locationName": "Ondo", "id": "ondo" },
+    { "locationName": "Piukanda", "id": "piukanda" },
+    { "locationName": "Rielle", "id": "rielle" },
+    { "locationName": "Sardavar Leed", "id": "sardavar-leed" },
+    { "locationName": "Sedor", "id": "sedor" },
+    { "locationName": "Sercen", "id": "sercen" },
+    { "locationName": "Silorn", "id": "silorn" },
+    { "locationName": "Talwinque", "id": "talwinque" },
+    { "locationName": "Telepe", "id": "telepe" },
+    { "locationName": "Trumbe", "id": "trumbe" },
+    { "locationName": "Vahtacen", "id": "vahtacen" },
+    { "locationName": "Vanua", "id": "vanua" },
+    { "locationName": "Varondo", "id": "varondo" },
+    { "locationName": "Veyond", "id": "veyond" },
+    { "locationName": "Vilverin", "id": "vilverin" },
+    { "locationName": "Vindasel", "id": "vindasel" },
+    { "locationName": "Welke", "id": "welke" },
+    { "locationName": "Wendelbek", "id": "wendelbek" },
+    { "locationName": "Wendir", "id": "wendir" },
+    { "locationName": "Wenyandawik", "id": "wenyandawik" }
+  ]
+}
+
+{
+  "forts": [
+    { "locationName": "Arkved's Tower", "id": "arkveds-tower" },
+    { "locationName": "Crowhaven", "id": "crowhaven" },
+    { "locationName": "Dasek Moor", "id": "dasek-moor" },
+    { "locationName": "Fathis Aren's Tower", "id": "fathis-arens-tower" },
+    { "locationName": "Fort Alessia", "id": "fort-alessia" },
+    { "locationName": "Fort Ash", "id": "fort-ash" },
+    { "locationName": "Fort Aurus", "id": "fort-aurus" },
+    { "locationName": "Fort Black Boot", "id": "fort-black-boot" },
+    { "locationName": "Fort Blueblood", "id": "fort-blueblood" },
+    { "locationName": "Fort Bulwark", "id": "fort-bulwark" },
+    { "locationName": "Fort Caractacus", "id": "fort-caractacus" },
+    { "locationName": "Fort Carmala", "id": "fort-carmala" },
+    { "locationName": "Fort Cedrian", "id": "fort-cedrian" },
+    { "locationName": "Fort Chalman", "id": "fort-chalman" },
+    { "locationName": "Fort Coldcorn", "id": "fort-coldcorn" },
+    { "locationName": "Fort Cuptor", "id": "fort-cuptor" },
+    { "locationName": "Fort Dirich", "id": "fort-dirich" },
+    { "locationName": "Fort Doublecross", "id": "fort-doublecross" },
+    { "locationName": "Fort Empire", "id": "fort-empire" },
+    { "locationName": "Fort Entius", "id": "fort-entius" },
+    { "locationName": "Fort Facian", "id": "fort-facian" },
+    { "locationName": "Fort Farragut", "id": "fort-farragut" },
+    { "locationName": "Fort Flecia", "id": "fort-flecia" },
+    { "locationName": "Fort Gold Throat", "id": "fort-gold-throat" },
+    { "locationName": "Fort Grief", "id": "fort-grief" },
+    { "locationName": "Fort Hastrel", "id": "fort-hastrel" },
+    { "locationName": "Fort Homestead", "id": "fort-homestead" },
+    { "locationName": "Fort Horunn", "id": "fort-horunn" },
+    { "locationName": "Fort Irony", "id": "fort-irony" },
+    { "locationName": "Fort Istirus", "id": "fort-istirus" },
+    { "locationName": "Fort Linchal", "id": "fort-linchal" },
+    { "locationName": "Fort Magia", "id": "fort-magia" },
+    { "locationName": "Fort Naso", "id": "fort-naso" },
+    { "locationName": "Fort Nikel", "id": "fort-nikel" },
+    { "locationName": "Fort Nomore", "id": "fort-nomore" },
+    { "locationName": "Fort Ontus", "id": "fort-ontus" },
+    { "locationName": "Fort Pale Pass", "id": "fort-pale-pass" },
+    { "locationName": "Fort Rayles", "id": "fort-rayles" },
+    { "locationName": "Fort Redman", "id": "fort-redman" },
+    { "locationName": "Fort Redwater", "id": "fort-redwater" },
+    { "locationName": "Fort Roebeck", "id": "fort-roebeck" },
+    { "locationName": "Fort Scinia", "id": "fort-scinia" },
+    { "locationName": "Fort Sejanus", "id": "fort-sejanus" },
+    { "locationName": "Fort Strand", "id": "fort-strand" },
+    { "locationName": "Fort Sutch", "id": "fort-sutch" },
+    { "locationName": "Fort Teleman", "id": "fort-teleman" },
+    { "locationName": "Fort Urasek", "id": "fort-urasek" },
+    { "locationName": "Fort Variela", "id": "fort-variela" },
+    { "locationName": "Fort Virtue", "id": "fort-virtue" },
+    { "locationName": "Fort Vlastarus", "id": "fort-vlastarus" },
+    { "locationName": "Fort Wariel", "id": "fort-wariel" },
+    { "locationName": "Fort Wooden Hand", "id": "fort-wooden-hand" },
+    { "locationName": "Frostcrag Spire", "id": "frostcrag-spire" },
+    { "locationName": "Sancre Tor", "id": "sancre-tor" },
+    { "locationName": "Sundercliff Watch", "id": "sundercliff-watch" }
+  ]
+}
+
+{
+  "campsites": [
+    { "locationName": "Aerin's Camp", "id": "aerins-camp" },
+    { "locationName": "Atrene Camp", "id": "atrene-camp" },
+    { "locationName": "Bawnwatch Camp", "id": "bawnwatch-camp" },
+    { "locationName": "Black Dog Camp", "id": "black-dog-camp" },
+    { "locationName": "Bodean Camp", "id": "bodean-camp" },
+    { "locationName": "Bogwater", "id": "bogwater" },
+    { "locationName": "Brotch Camp", "id": "brotch-camp" },
+    { "locationName": "Camp Ales", "id": "camp-ales" },
+    { "locationName": "Carbo's Camp", "id": "carbos-camp" },
+    { "locationName": "Collarbone Camp", "id": "collarbone-camp" },
+    { "locationName": "Crestbridge Camp", "id": "crestbridge-camp" },
+    { "locationName": "Dagny's Camp", "id": "dagnys-camp" },
+    { "locationName": "Fat Ramp Camp", "id": "fat-ramp-camp" },
+    { "locationName": "Fisherman's Rock", "id": "fishermans-rock" },
+    { "locationName": "Garnet Camp", "id": "garnet-camp" },
+    { "locationName": "Gnoll's Meeting Camp", "id": "gnolls-meeting-camp" },
+    { "locationName": "Gro-Bak Camp", "id": "gro-bak-camp" },
+    { "locationName": "Hidden Camp", "id": "hidden-camp" },
+    { "locationName": "Last Chance Camp", "id": "last-chance-camp" },
+    { "locationName": "Marsh-Punk Camp", "id": "marsh-punk-camp" },
+    { "locationName": "Mortal Camp", "id": "mortal-camp" },
+    { "locationName": "Nayon Camp", "id": "nayon-camp" },
+    { "locationName": "Ra'sava Camp", "id": "rasava-camp" },
+    { "locationName": "Seran Camp", "id": "seran-camp" },
+    { "locationName": "Sercen Camp", "id": "sercen-camp" },
+    { "locationName": "Sweetwater Camp", "id": "sweetwater-camp" },
+    { "locationName": "Troll Candle Camp", "id": "troll-candle-camp" },
+    { "locationName": "Trossan Camp", "id": "trossan-camp" },
+    { "locationName": "Valley View Camp", "id": "valley-view-camp" },
+    { "locationName": "Varus Camp", "id": "varus-camp" },
+    { "locationName": "Walker Camp", "id": "walker-camp" },
+    { "locationName": "Wind Range Camp", "id": "wind-range-camp" }
+  ]
+}
+
+{
+  "settlements": [
+    { "locationName": "Aleswell", "id": "aleswell" },
+    { "locationName": "Blankenmarch", "id": "blankenmarch" },
+    { "locationName": "Bleaker's Way", "id": "bleakers-way" },
+    { "locationName": "Border Watch", "id": "border-watch" },
+    { "locationName": "Brindle Home", "id": "brindle-home" },
+    { "locationName": "Hackdirt", "id": "hackdirt" },
+    { "locationName": "Harlun's Watch", "id": "harluns-watch" },
+    { "locationName": "Pell's Gate", "id": "pells-gate" },
+    { "locationName": "Water's Edge", "id": "waters-edge" },
+    { "locationName": "Weye", "id": "weye" },
+    { "locationName": "Applewatch", "id": "applewatch" },
+    { "locationName": "Cropsford", "id": "cropsford" },
+    { "locationName": "Drakelowe", "id": "drakelowe" },
+    { "locationName": "Gweden Farm", "id": "gweden-farm" },
+    { "locationName": "Harm's Folly", "id": "harms-folly" },
+    { "locationName": "Lord Drad's Estate", "id": "lord-drads-estate" },
+    { "locationName": "Lord Rugdumph's Estate", "id": "lord-rugdumphs-estate" },
+    { "locationName": "Odiil Farm", "id": "odiil-farm" },
+    { "locationName": "Shardrock", "id": "shardrock" },
+    { "locationName": "Shetcombe Farm", "id": "shetcombe-farm" },
+    { "locationName": "Whitmond Farm", "id": "whitmond-farm" },
+    { "locationName": "Greyland", "id": "greyland" },
+    { "locationName": "Melus Petilius' House", "id": "melus-petilius-house" },
+    { "locationName": "Roland Jenseric's House", "id": "roland-jenseric-house" },
+    { "locationName": "Weatherleah", "id": "weatherleah" },
+    { "locationName": "Cadlew Chapel", "id": "cadlew-chapel" },
+    { "locationName": "Cloud Ruler Temple", "id": "cloud-ruler-temple" },
+    { "locationName": "Gottlesfont Priory", "id": "gottlesfont-priory" },
+    { "locationName": "Knights of the Thorn Headquarters", "id": "knights-of-the-thorn-headquarters" },
+    { "locationName": "Temple of the Ancestor Moths", "id": "temple-of-the-ancestor-moths" },
+    { "locationName": "Weynon Priory", "id": "weynon-priory" },
+    { "locationName": "White Stallion Lodge", "id": "white-stallion-lodge" },
+    { "locationName": "Priory of the Nine", "id": "priory-of-the-nine" }
+  ]
+}
+
+{
+  "mines": [
+    { "locationName": "Abandoned Mine", "id": "abandoned-mine" },
+    { "locationName": "Barren Mine", "id": "barren-mine" },
+    { "locationName": "Belletor's Folly", "id": "belletors-folly" },
+    { "locationName": "Bleak Mine", "id": "bleak-mine" },
+    { "locationName": "Collapsed Mine", "id": "collapsed-mine" },
+    { "locationName": "Crumbling Mine", "id": "crumbling-mine" },
+    { "locationName": "Cursed Mine", "id": "cursed-mine" },
+    { "locationName": "Derelict Mine", "id": "derelict-mine" },
+    { "locationName": "Deserted Mine", "id": "deserted-mine" },
+    { "locationName": "Desolate Mine", "id": "desolate-mine" },
+    { "locationName": "Doomed Mine", "id": "doomed-mine" },
+    { "locationName": "Echo Mine", "id": "echo-mine" },
+    { "locationName": "Empty Mine", "id": "empty-mine" },
+    { "locationName": "Exhausted Mine", "id": "exhausted-mine" },
+    { "locationName": "Flooded Mine", "id": "flooded-mine" },
+    { "locationName": "Forsaken Mine", "id": "forsaken-mine" },
+    { "locationName": "Haunted Mine", "id": "haunted-mine" },
+    { "locationName": "Hidden Mine", "id": "hidden-mine" },
+    { "locationName": "Lost Mine", "id": "lost-mine" },
+    { "locationName": "Luminous Mine", "id": "luminous-mine" },
+    { "locationName": "Moldering Mine", "id": "moldering-mine" },
+    { "locationName": "Mourning Mine", "id": "mourning-mine" },
+    { "locationName": "Old Mine", "id": "old-mine" },
+    { "locationName": "Ruined Mine", "id": "ruined-mine" },
+    { "locationName": "Sealed Mine", "id": "sealed-mine" },
+    { "locationName": "Unstable Mine", "id": "unstable-mine" },
+    { "locationName": "Wicked Mine", "id": "wicked-mine" }
+  ]
+}
+{
+  "daedricShrines": [
+    { "location": "Azura's Shrine", "id": "azuras-shrine" },
+    { "location": "Boethia's Shrine", "id": "boethias-shrine" },
+    { "location": "Clavicus Vile's Shrine", "id": "clavicus-viles-shrine" },
+    { "location": "Hermaeus Mora's Shrine", "id": "hermaeus-moras-shrine" },
+    { "location": "Hircine's Shrine", "id": "hircines-shrine" },
+    { "location": "Malacath's Shrine", "id": "malacaths-shrine" },
+    { "location": "Mephala's Shrine", "id": "mephalas-shrine" },
+    { "location": "Meridia's Shrine", "id": "meridias-shrine" },
+    { "location": "Molag Bal's Shrine", "id": "molag-bals-shrine" },
+    { "location": "Namira's Shrine", "id": "namiras-shrine" },
+    { "location": "Nocturnal's Shrine", "id": "nocturnals-shrine" },
+    { "location": "Peryite's Shrine", "id": "peryites-shrine" },
+    { "location": "Sheogorath's Shrine", "id": "sheogoraths-shrine" },
+    { "location": "Shrine of Sanguine", "id": "shrine-of-sanguine" },
+    { "location": "Vaermina's Shrine", "id": "vaerminas-shrine" }
+  ],
+  "landmarks": [
+    { "location": "Cloud Top", "id": "cloud-top" },
+    { "location": "Dive Rock", "id": "dive-rock" },
+    { "location": "Dragonclaw Rock", "id": "dragonclaw-rock" },
+    { "location": "Gnoll Mountain", "id": "gnoll-mountain" },
+    { "location": "Harcane Grove", "id": "harcane-grove" },
+    { "location": "Hero Hill", "id": "hero-hill" },
+    { "location": "The Mouth of the Panther", "id": "the-mouth-of-the-panther" },
+    { "location": "Old Bridge", "id": "old-bridge" },
+    { "location": "The Sentinel", "id": "the-sentinel" },
+    { "location": "Shadeleaf Copse", "id": "shadeleaf-copse" },
+    { "location": "A Strange Door", "id": "a-strange-door" }
+  ]
+}
+}

@@ -1,0 +1,66 @@
+{
+  "artifacts": [
+    { "id": "blackwater-blade", "name": "Blackwater Blade" },
+    { "id": "chillrend", "name": "Chillrend" },
+    { "id": "debaser", "name": "Debaser" },
+    { "id": "ebony-blade", "name": "Ebony Blade" },
+    { "id": "gold-brand", "name": "Gold Brand" },
+    { "id": "mace-of-molag-bal", "name": "Mace of Molag Bal" },
+    { "id": "rugdumphs-sword", "name": "Rugdumph's Sword" },
+    { "id": "thornblade", "name": "Thornblade" },
+    { "id": "umbra", "name": "Umbra" },
+    { "id": "volendrung", "name": "Volendrung" },
+    { "id": "witsplinter", "name": "Witsplinter" },
+    { "id": "apron-of-adriotness", "name": "Apron of Adriotness" },
+    {
+      "id": "ayleid-crown-of-lindai",
+      "name": "Ayleid Crown of Lindai"
+    },
+    {
+      "id": "ayleid-crown-of-nenalata",
+      "name": "Ayleid Crown of Nenalata"
+    },
+    { "id": "bloodworm-helm", "name": "Bloodworm Helm" },
+    {
+      "id": "boots-of-bloody-bounding",
+      "name": "Boots of Bloody Bounding"
+    },
+    { "id": "escutcheon-of-chorrol", "name": "Escutcheon of Chorrol" },
+    {
+      "id": "helm-of-oreyn-bearclaw",
+      "name": "Helm or Oreyn Bearclaw"
+    },
+    {
+      "id": "masque-of-clavicus-vile",
+      "name": "Masque of Clavicus Vile"
+    },
+    { "id": "saviours-hide", "name": "Saviour's Hide" },
+    { "id": "spell-breaker", "name": "Spell Breaker" },
+    { "id": "draconian-madstone", "name": "Draconian Madstone" },
+    {
+      "id": "gray-cowl-of-nocturnal",
+      "name": "Gray Cowl of Nocturnal"
+    },
+    { "id": "jewel-of-the-rumare", "name": "Jewel of the Rumare" },
+    { "id": "necromancers-amulet", "name": "Necromancer's Amulet" },
+    { "id": "ring-of-eidolons-edge", "name": "Ring of Eidolon's Edge" },
+    { "id": "ring-of-khajiiti", "name": "Ring of Khajiiti" },
+    { "id": "ring-of-namira", "name": "Ring of Namira" },
+    { "id": "ring-of-sunfire", "name": "Ring of Sunfire" },
+    { "id": "spelldrinker-amulet", "name": "Spelldrinker Amulet" },
+    { "id": "weatherward-circlet", "name": "Weatherward Circlet" },
+    { "id": "hrormirs-icestaff", "name": "Hrormir's Icestaff" },
+    { "id": "sanguine-rose", "name": "Sanguine Rose" },
+    { "id": "skull-of-corruption", "name": "Skull of Corruption" },
+    {
+      "id": "staff-of-the-everscamp",
+      "name": "Staff of the Everscamp"
+    },
+    { "id": "staff-of-indarys", "name": "Staff of Indarys" },
+    { "id": "staff-of-worms", "name": "Staff of Worms" },
+    { "id": "wabbajack", "name": "Wabbajack" },
+    { "id": "azuras-star", "name": "Azura's Star" },
+    { "id": "oghma-infinium", "name": "Oghma Infinium" },
+    { "id": "skeleton-key", "name": "Skeleton Key" }
+  ]
+}

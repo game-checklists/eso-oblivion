@@ -1,0 +1,173 @@
+{
+  "skillBooksRead": [
+    { "id": "the-black-arrow-v1", "name": "The Black Arrow, v1" },
+    {
+      "id": "mythic-dawn-commentaries-1",
+      "name": "Mythic Dawn Commentaries 1"
+    },
+    {
+      "id": "mythic-dawn-commentaries-4",
+      "name": "Mythic Dawn Commnetaries 4"
+    },
+    { "id": "a-dance-with-fire-v1", "name": "A Dance with Fire, v1" },
+    { "id": "the-warriors-charge", "name": "The Warrior's Charge" },
+    { "id": "souls-black-and-white", "name": "Souls, Black and White" },
+    { "id": "a-dance-with-fire-v4", "name": "A Dance with Fire, v4" },
+    { "id": "the-art-of-war-magic", "name": "The Art of War Magic" },
+    { "id": "2920-rains-hand", "name": "2920, Rain's Hand" },
+    { "id": "mystery-of-talara-v1", "name": "Mystery of Talara, v1" },
+    {
+      "id": "the-horrors-of-castle-xyr",
+      "name": "The Horrors of Castle Xyr"
+    },
+    { "id": "the-exodus", "name": "The Exodus" },
+    { "id": "thief", "name": "Thief" },
+    {
+      "id": "a-hypothetical-treachery",
+      "name": "A Hypothetical Treachery"
+    },
+    { "id": "mystery-of-talara-v2", "name": "Mystery of Talara, v2" },
+    { "id": "calcinator-treatise", "name": "Calcinator Treatise" },
+    { "id": "mystery-of-talara-v3", "name": "Mystery of Talara, v3" },
+    {
+      "id": "notes-on-racial-phylogeny",
+      "name": "Notes on Racial Phylogeny"
+    },
+    { "id": "de-rerum-dirennis", "name": "De Rerum Dirennis" },
+    {
+      "id": "mythic-dawn-commentaries-2",
+      "name": "Mythic Dawn Commentaries 2"
+    },
+    { "id": "withershins", "name": "Withershins" },
+    { "id": "a-game-at-dinner", "name": "A Game at Dinner" },
+    {
+      "id": "response-to-beros-speech",
+      "name": "Response to Bero's Speech"
+    },
+    { "id": "advances-in-lockpicking", "name": "Advances in Lockpicking" },
+    {
+      "id": "mannimarco-king-of-worms",
+      "name": "Mannimarco, King of Worms"
+    },
+    { "id": "ahzirr-traajijazeri", "name": "Ahzirr Traajijazeri" },
+    { "id": "the-locked-room", "name": "The Locked Room" },
+    { "id": "song-of-the-alchemists", "name": "Song of the Alchemists" },
+    { "id": "immortal-blood", "name": "Immortal Blood" },
+    { "id": "proper-lock-design", "name": "Proper Lock Design" },
+    { "id": "daughter-of-the-niben", "name": "Daughter of the Niben" },
+    { "id": "master-zoarayms-tale", "name": "Master Zoaraym's Tale" },
+    { "id": "surfeit-of-thieves", "name": "Surfeit of Thieves" },
+    { "id": "the-dragon-break", "name": "The Dragon Break" },
+    { "id": "way-of-the-exposed-palm", "name": "Way of the Exposed Palm" },
+    { "id": "the-wolf-queen-v1", "name": "The Wolf Queen, v1" },
+    { "id": "the-lunar-lorkhan", "name": "The Lunar Lorkhan" },
+    { "id": "the-wolf-queen-v2", "name": "The Wolf Queen, v2" },
+    { "id": "2920-last-seed", "name": "2920, Last Seed" },
+    {
+      "id": "reality-and-other-falsehoods",
+      "name": "Reality & Other Falsehoods"
+    },
+    { "id": "2920-midyear", "name": "2920, MidYear" },
+    { "id": "legend-of-krately-house", "name": "Legend of Krately House" },
+    { "id": "sithis", "name": "Sithis" },
+    { "id": "chimarvamidium", "name": "Chimarvamidium" },
+    { "id": "purloined-shadows", "name": "Purloined Shadows" },
+    { "id": "the-armoners-challenge", "name": "The Armorer's Challenge" },
+    {
+      "id": "fighters-guild-history-1st-ed",
+      "name": "Fighters Guild History, 1st Ed."
+    },
+    { "id": "sacred-witness", "name": "Sacred Witness" },
+    {
+      "id": "cherims-heart-of-anequina",
+      "name": "Cherim's Heart of Anequina"
+    },
+    { "id": "hallgerds-tale", "name": "Hallgerd's Tale" },
+    { "id": "the-wolf-queen-v6", "name": "The Wolf Queen, v6" },
+    { "id": "heavy-armor-repair", "name": "Heavy Armor Repair" },
+    {
+      "id": "history-of-the-fighters-guild",
+      "name": "History of the Fighters Guild"
+    },
+    { "id": "2920-second-seed", "name": "2920, Second Seed" },
+    { "id": "last-scabbard-of-akrash", "name": "Last Scabbard of Akrash" },
+    {
+      "id": "how-orsinium-passed-to-orcs",
+      "name": "How Orsinium Passed to Orcs"
+    },
+    {
+      "id": "biography-of-the-wolf-queen",
+      "name": "Biography of the Wolf Queen"
+    },
+    { "id": "light-armor-repair", "name": "Light Armor Repair" },
+    {
+      "id": "the-argonian-account-book-3",
+      "name": "The Argonian Account, Book 3"
+    },
+    { "id": "the-wolf-queen-v5", "name": "The Wolf Queen, v5" },
+    {
+      "id": "the-argonian-account-book-1",
+      "name": "The Argonian Account, Book 1"
+    },
+    { "id": "incident-in-necrom", "name": "Incident in Necrom" },
+    { "id": "the-wolf-queen-v7", "name": "The Wolf Queen, v7" },
+    { "id": "beggar", "name": "Beggar" },
+    { "id": "mystery-of-talara-v4", "name": "Mystery of Talara, v4" },
+    { "id": "a-dance-with-fire-v3", "name": "A Dance with Fire, v3" },
+    {
+      "id": "mythic-dawn-commentaries-3",
+      "name": "Mythic Dawn Commentaries 3"
+    },
+    { "id": "the-ransom-of-zarek", "name": "The Ransom of Zarek" },
+    { "id": "palla-volume-1", "name": "Palla, Volume 1" },
+    { "id": "the-red-kitchen-reader", "name": "The Red Kitchen Reader" },
+    { "id": "the-wolf-queen-v3", "name": "The Wolf Queen, v3" },
+    { "id": "2920-morning-star", "name": "2920, Morning Star" },
+    { "id": "ice-and-chitin", "name": "Ice and Chitin" },
+    { "id": "battle-of-sancre-tor", "name": "Battle of Sancre Tor" },
+    {
+      "id": "lord-jornibrets-last-dance",
+      "name": "Lord Jornibret's Last Dance"
+    },
+    { "id": "fire-and-darkness", "name": "Fire and Darkness" },
+    { "id": "the-rear-guard", "name": "The Rear Guard" },
+    { "id": "song-of-hrormir", "name": "Song of Hrormir" },
+    { "id": "the-refugees", "name": "The Refugees" },
+    { "id": "words-and-philosophy", "name": "Words and Philosophy" },
+    { "id": "rislav-the-righteous", "name": "Rislav the Righteous" },
+    { "id": "a-dance-of-fire-v2", "name": "A Dance of Fire, v2" },
+    { "id": "the-black-arrow-v2", "name": "The Black Arrow, v2" },
+    { "id": "death-blow-of-abernanit", "name": "Death Blow of Abernanit" },
+    { "id": "a-dance-in-fire-v5", "name": "A Dance in Fire, v5" },
+    { "id": "the-mirror", "name": "The Mirror" },
+    { "id": "father-of-the-niben", "name": "Father of the Niben" },
+    { "id": "the-warp-in-the-west", "name": "The Warp in the West" },
+    {
+      "id": "the-gold-ribben-of-merit",
+      "name": "The Gold Ribben of Merit"
+    },
+    { "id": "warrior", "name": "Warrior" },
+    { "id": "vernaccus-and-bourlor", "name": "Vernaccus and Bourlor" },
+    { "id": "the-importance-of-where", "name": "The Importance of Where" },
+    { "id": "2920-suns-height", "name": "2920, Sun's Height" },
+    { "id": "king", "name": "King" },
+    { "id": "the-buying-game", "name": "The Buying Game" },
+    {
+      "id": "the-legendary-sancre-tor",
+      "name": "The Legendary Sancre Tor"
+    },
+    { "id": "a-dance-in-fire-v6", "name": "A Dance in Fire, v6" },
+    { "id": "mace-etiquette", "name": "Mace Etiquette" },
+    { "id": "a-dance-in-fire-v7", "name": "A Dance in Fire, v7" },
+    { "id": "night-falls-on-sentinel", "name": "Night Falls on Sentinel" },
+    { "id": "the-wolf-queen-v4", "name": "The Wolf Queen, v4" },
+    { "id": "2920-frostfall", "name": "2920, Frostfall" },
+    { "id": "2920-suns-dawn", "name": "2920, Sun's Dawn" },
+    { "id": "2920-hearth-fire", "name": "2920, Hearth Fire" },
+    { "id": "before-the-ages-of-man", "name": "Before the Ages of Man" },
+    { "id": "the-doors-of-oblivion", "name": "The Doors of Oblivion" },
+    { "id": "the-black-arts-on-trial", "name": "The Black Arts on Trial" },
+    { "id": "liminal-bridges", "name": "Liminal Bridges" },
+    { "id": "the-firsthold-revolt", "name": "The Firsthold Revolt" }
+  ]
+}

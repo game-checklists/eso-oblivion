@@ -1,0 +1,13 @@
+{
+  "horsesCollected": [
+    { "id": "armored-old-nag", "name": "Armored Old Nag" },
+    { "id": "paint-horse-bruma", "name": "Paint Horse (Bruma)" },
+    { "id": "paint-horse-leyawiin", "name": "Paint Horse (Leyawiin)" },
+    { "id": "bay-horse-bravil", "name": "Bay Horse (Bravil)" },
+    { "id": "bay-horse-skingrad", "name": "Bay Horse (Skingrad)" },
+    { "id": "chestnut-horse", "name": "Chestnut Horse" },
+    { "id": "white-horse", "name": "White Horse" },
+    { "id": "black-horse", "name": "Black Horse" },
+    { "id": "shadowmere", "name": "Shadowmere" }
+  ]
+}

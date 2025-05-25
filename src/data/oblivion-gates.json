@@ -1,0 +1,454 @@
+{
+  "oblivionGates": [
+    {
+      "id": "kvatch-start-of-game",
+      "name": "Kvatch",
+      "condition": "Start of Game"
+    },
+    {
+      "id": "cheydinhal-after-dagon-shrine",
+      "name": "Cheydinhal",
+      "condition": "After Dagon Shrine"
+    },
+    {
+      "id": "fort-sutch-after-dagon-shrine",
+      "name": "Fort Sutch",
+      "condition": "After Dagon Shrine"
+    },
+    {
+      "id": "anvil-after-dagon-shrine",
+      "name": "Anvil",
+      "condition": "After Dagon Shrine"
+    },
+    {
+      "id": "chorrol-after-dagon-shrine",
+      "name": "Chorrol",
+      "condition": "After Dagon Shrine"
+    },
+    {
+      "id": "leyawiin-after-dagon-shrine",
+      "name": "Leyawiin",
+      "condition": "After Dagon Shrine"
+    },
+    {
+      "id": "skingrad-after-dagon-shrine",
+      "name": "Skingrad",
+      "condition": "After Dagon Shrine"
+    },
+    {
+      "id": "bravil-after-dagon-shrine",
+      "name": "Bravil",
+      "condition": "After Dagon Shrine"
+    },
+    {
+      "id": "bruma-during-bruma-gate",
+      "name": "Bruma",
+      "condition": "During Bruma Gate"
+    },
+    {
+      "id": "great-gate-during-great-gate",
+      "name": "Great Gate",
+      "condition": "During Great Gate"
+    },
+    {
+      "id": "sw-panther-river-south-welke-random",
+      "name": "Southwest of Panther River, south of Welke",
+      "condition": "Random"
+    },
+    {
+      "id": "ne-leyawiin-east-fieldhouse-cave-random",
+      "name": "Northeast of Leyawiin, east of Fieldhouse Cave",
+      "condition": "Random"
+    },
+    {
+      "id": "se-arpenia-random",
+      "name": "Slightly southeast of Arpenia",
+      "condition": "Random"
+    },
+    {
+      "id": "n-leyawiin-nw-blankenmarch-random",
+      "name": "North of Leyawiin, northwest of Blankenmarch",
+      "condition": "Random"
+    },
+    {
+      "id": "n-leyawiin-random",
+      "name": "Slightly north of Leyawiin",
+      "condition": "Random"
+    },
+    {
+      "id": "se-leyawiin-between-darkfathom-fort-blueblood-random",
+      "name": "Southeast of Leyawiin, between Darkfathom Cave and Fort Blueblood",
+      "condition": "Random"
+    },
+    {
+      "id": "se-leyawiin-sw-fort-blueblood-random",
+      "name": "Southeast of Leyawiin, southwest of Fort Blueblood",
+      "condition": "Random"
+    },
+    {
+      "id": "se-leyawiin-east-bogwater-random",
+      "name": "Southeast of Leyawiin, east of Bogwater",
+      "condition": "Random"
+    },
+    {
+      "id": "se-leyawiin-peninsula-topal-bay-random",
+      "name": "Southeast of Leyawiin, on a peninsula in Topal Bay",
+      "condition": "Random"
+    },
+    {
+      "id": "se-bravil-sw-mouth-panther-random",
+      "name": "Southeast of Bravil, southwest of Mouth of the Panther",
+      "condition": "Random"
+    },
+    {
+      "id": "n-leyawiin-along-green-road-random",
+      "name": "North of Leyawiin, along the Green Road",
+      "condition": "Random"
+    },
+    {
+      "id": "s-morahame-next-to-bridge-random",
+      "name": "South of Morahame, next to bridge",
+      "condition": "Random"
+    },
+    {
+      "id": "n-chorrol-se-lipsand-tarn-random",
+      "name": "North of Chorrol, southeast of Lipsand Tarn",
+      "condition": "Random"
+    },
+    {
+      "id": "w-chorrol-random",
+      "name": "West of Chorrol",
+      "condition": "Random"
+    },
+    {
+      "id": "sw-chorrol-w-wendir-random",
+      "name": "Southwest of Chorrol, west of Wendir",
+      "condition": "Random"
+    },
+    {
+      "id": "nw-kvatch-random",
+      "name": "Northwest of Kvatch",
+      "condition": "Random"
+    },
+    {
+      "id": "ne-kvatch-random",
+      "name": "Northeast of Kvatch",
+      "condition": "Random"
+    },
+    {
+      "id": "nw-kvatch-ne-trumbe-random",
+      "name": "Northwest of Kvatch, northeast of Trumbe",
+      "condition": "Random"
+    },
+    {
+      "id": "sw-varondo-random",
+      "name": "Southwest of Varondo",
+      "condition": "Random"
+    },
+    {
+      "id": "ne-varondo-sw-fort-ontus-random",
+      "name": "Northeast of Varondo, southwest of Fort Ontus",
+      "condition": "Random"
+    },
+    {
+      "id": "sw-fort-dirich-random",
+      "name": "Southwest of Fort Dirich",
+      "condition": "Random"
+    },
+    {
+      "id": "nw-fort-dirich-se-nonungalo-random",
+      "name": "Northwest of Fort Dirich, southeast of Nonungalo",
+      "condition": "Random"
+    },
+    {
+      "id": "ne-fort-ontus-random",
+      "name": "Northeast of Fort Ontus",
+      "condition": "Random"
+    },
+    {
+      "id": "e-fort-rayles-random",
+      "name": "East of Fort Rayles",
+      "condition": "Random"
+    },
+    {
+      "id": "sw-fort-rayles-n-black-road-random",
+      "name": "Southwest of Fort Rayles, north of Black Road",
+      "condition": "Random"
+    },
+    {
+      "id": "nw-garlas-agea-random",
+      "name": "Northwest of Garlas Agea",
+      "condition": "Random"
+    },
+    {
+      "id": "se-anvil-s-fort-strand-random",
+      "name": "Southeast of Anvil, south of Fort Strand",
+      "condition": "Random"
+    },
+    {
+      "id": "n-anvil-e-beldaburo-random",
+      "name": "North of Anvil, east of Beldaburo",
+      "condition": "Random"
+    },
+    {
+      "id": "se-anvil-s-troll-candle-camp-random",
+      "name": "Southeast of Anvil, south of Troll Candle Camp",
+      "condition": "Random"
+    },
+    {
+      "id": "n-fort-sutch-w-niryastare-random",
+      "name": "North of Fort Sutch, west of Niryastare",
+      "condition": "Random"
+    },
+    {
+      "id": "s-bruma-silver-orange-roads-junction-random",
+      "name": "South of Bruma, Silver/Orange Roads junction",
+      "condition": "Random"
+    },
+    {
+      "id": "sw-bruma-sw-piukanda-random",
+      "name": "Southwest of Bruma, southwest of Piukanda",
+      "condition": "Random"
+    },
+    {
+      "id": "s-bruma-w-sercen-random",
+      "name": "South of Bruma, west of Sercen",
+      "condition": "Random"
+    },
+    {
+      "id": "nw-bravil-e-wenyandawik-random",
+      "name": "Northwest of Bravil, east of Wenyandawik",
+      "condition": "Random"
+    },
+    {
+      "id": "nw-bravil-nw-wenyandawik-random",
+      "name": "Northwest of Bravil, northwest of Wenyandawik",
+      "condition": "Random"
+    },
+    {
+      "id": "nw-bravil-sw-nenyond-twyll-random",
+      "name": "Northwest of Bravil, southwest of Nenyond Twyll",
+      "condition": "Random"
+    },
+    {
+      "id": "w-white-rose-river-nw-fort-roebeck-random",
+      "name": "West of White Rose River, NW of Fort Roebeck",
+      "condition": "Random"
+    },
+    {
+      "id": "e-white-rose-river-ne-fort-roebeck-random",
+      "name": "East of White Rose River, NE of Fort Roebeck",
+      "condition": "Random"
+    },
+    {
+      "id": "se-fort-wooden-hand-nw-ceyatatar-random",
+      "name": "Southeast of Fort Wooden Hand, NW of Ceyatatar",
+      "condition": "Random"
+    },
+    {
+      "id": "nw-fort-nikel-random",
+      "name": "Northwest of Fort Nikel",
+      "condition": "Random"
+    },
+    {
+      "id": "ne-fort-chalman-nw-harms-folly-random",
+      "name": "Northeast of Fort Chalman, NW of Harm's Folly",
+      "condition": "Random"
+    },
+    {
+      "id": "ne-belda-e-harms-folly-random",
+      "name": "Northeast of Belda, east of Harm's Folly",
+      "condition": "Random"
+    },
+    {
+      "id": "e-chorrol-nw-fort-ash-random",
+      "name": "East of Chorrol, NW of Fort Ash",
+      "condition": "Random"
+    },
+    {
+      "id": "se-arcane-university-city-isle-random",
+      "name": "Southeast of Arcane University, City Isle",
+      "condition": "Random"
+    },
+    {
+      "id": "ne-vilverin-random",
+      "name": "Northeast of Vilverin",
+      "condition": "Random"
+    },
+    {
+      "id": "nw-roland-jenserics-cabin-random",
+      "name": "NW of Roland Jenseric's Cabin",
+      "condition": "Random"
+    },
+    {
+      "id": "e-imperial-city-sw-nagastani-random",
+      "name": "East of Imperial City, SW of Nagastani",
+      "condition": "Random"
+    },
+    {
+      "id": "se-imperial-city-w-cracked-wood-cave-random",
+      "name": "Southeast of Imperial City, west of Cracked Wood Cave",
+      "condition": "Random"
+    },
+    {
+      "id": "se-imperial-city-s-culotte-random",
+      "name": "Southeast of Imperial City, south of Culotte",
+      "condition": "Random"
+    },
+    {
+      "id": "n-bravil-n-fort-variela-random",
+      "name": "North of Bravil, north of Fort Variela",
+      "condition": "Random"
+    },
+    {
+      "id": "n-chorrol-ne-lipsand-tarn-random",
+      "name": "North of Chorrol, NE of Lipsand Tarn",
+      "condition": "Random"
+    },
+    {
+      "id": "w-bruma-s-applewatch-random",
+      "name": "West of Bruma, south of Applewatch",
+      "condition": "Random"
+    },
+    {
+      "id": "n-cheydinhal-w-temple-of-ancestor-moths-random",
+      "name": "North of Cheydinhal, west of Temple of Ancestor Moths",
+      "condition": "Random"
+    },
+    {
+      "id": "se-sedor-w-gutted-mine-random",
+      "name": "SE of Sedor, west of Gutted Mine",
+      "condition": "Random"
+    },
+    {
+      "id": "w-bruma-ne-ninendava-random",
+      "name": "West of Bruma, northeast of Ninendava",
+      "condition": "Random"
+    },
+    {
+      "id": "n-cheydinhal-e-wind-range-camp-random",
+      "name": "North of Cheydinhal, east of Wind Range Camp",
+      "condition": "Random"
+    },
+    {
+      "id": "se-cheydinhal-near-reed-river-random",
+      "name": "Southeast of Cheydinhal, near Reed River",
+      "condition": "Random"
+    },
+    {
+      "id": "sw-cheydinhal-near-lake-poppad-random",
+      "name": "Southwest of Cheydinhal, near Lake Poppad",
+      "condition": "Random"
+    },
+    {
+      "id": "s-cheydinhal-near-river-fork-random",
+      "name": "South of Cheydinhal, near river fork",
+      "condition": "Random"
+    },
+    {
+      "id": "s-wenderbek-cave-near-cracked-wood-cave-random",
+      "name": "South of Wenderbek Cave, near Cracked Wood Cave",
+      "condition": "Random"
+    },
+    {
+      "id": "s-cheydinhal-e-fort-cedrian-random",
+      "name": "South of Cheydinhal, east of Fort Cedrian",
+      "condition": "Random"
+    },
+    {
+      "id": "between-sage-glen-hollow-bramblepoint-cave-random",
+      "name": "Between Sage Glen Hollow and Bramblepoint Cave",
+      "condition": "Random"
+    },
+    {
+      "id": "sw-hame-random",
+      "name": "Southwest of Hame",
+      "condition": "Random"
+    },
+    {
+      "id": "s-fort-facian-random",
+      "name": "South of Fort Facian",
+      "condition": "Random"
+    },
+    {
+      "id": "e-ondo-n-lost-boy-cavern-random",
+      "name": "East of Ondo, north of Lost Boy Cavern",
+      "condition": "Random"
+    },
+    {
+      "id": "s-fort-cuptor-n-leafrot-cave-random",
+      "name": "South of Fort Cuptor, north of Leafrot Cave",
+      "condition": "Random"
+    },
+    {
+      "id": "se-malada-ne-abandoned-mine-random",
+      "name": "SE of Malada, NE of Abandoned Mine",
+      "condition": "Random"
+    },
+    {
+      "id": "n-fort-sejanus-random",
+      "name": "North of Fort Sejanus",
+      "condition": "Random"
+    },
+    {
+      "id": "e-morahame-random",
+      "name": "East of Morahame",
+      "condition": "Random"
+    },
+    {
+      "id": "ne-cheydinhal-n-kemen-random",
+      "name": "NE of Cheydinhal, north of Kemen",
+      "condition": "Random"
+    },
+    {
+      "id": "nw-skingrad-sw-bleak-flats-cave-random",
+      "name": "NW of Skingrad, SW of Bleak Flats Cave",
+      "condition": "Random"
+    },
+    {
+      "id": "e-skingrad-sw-fort-vlastarus-random",
+      "name": "East of Skingrad, SW of Fort Vlastarus",
+      "condition": "Random"
+    },
+    {
+      "id": "ne-skingrad-along-gold-road-random",
+      "name": "NE of Skingrad, along Gold Road",
+      "condition": "Random"
+    },
+    {
+      "id": "se-skingrad-e-silorn-random",
+      "name": "SE of Skingrad, east of Silorn",
+      "condition": "Random"
+    },
+    {
+      "id": "w-skingrad-sw-cursed-mine-random",
+      "name": "West of Skingrad, SW of Cursed Mine",
+      "condition": "Random"
+    },
+    {
+      "id": "s-kvatch-near-strid-river-random",
+      "name": "South of Kvatch, near Strid River",
+      "condition": "Random"
+    },
+    {
+      "id": "se-skingrad-sw-priory-of-the-nine-random",
+      "name": "SE of Skingrad, SW of Priory of the Nine",
+      "condition": "Random"
+    },
+    {
+      "id": "between-skingrad-bravil-destroying-isolated-house-random",
+      "name": "Between Skingrad and Bravil, destroying Isolated House",
+      "condition": "Random"
+    },
+    {
+      "id": "e-nornalhorst-random",
+      "name": "East of Nornalhorst",
+      "condition": "Random"
+    },
+    {
+      "id": "w-skingrad-sw-fat-ramp-camp-random",
+      "name": "West of Skingrad, SW of Fat Ramp Camp",
+      "condition": "Random"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "locations": [
+    { "id": "hrota-cave", "name": "Hrota Cave" },
+    {
+      "id": "imperial-sewers-n-exit",
+      "name": "Imperial Sewers N. Exit"
+    },
+    {
+      "id": "imperial-sewers-se-exit",
+      "name": "Imperial Sewers SE. Exit"
+    },
+    {
+      "id": "imperial-prison-sewer-tutorial",
+      "name": "Imperial Prison Sewer (Tutorial)"
+    },
+    {
+      "id": "imperial-prison-sewer-scheduled-for-execution",
+      "name": "Imperial Prison Sewer (Scheduled for Execution)"
+    },
+    { "id": "jakben-imbels-house", "name": "Jakben Imbel's House" },
+    { "id": "kindred-cave", "name": "Kindred Cave" },
+    { "id": "kingscrest-cavern", "name": "Kingscrest Cavern" },
+    { "id": "lake-arrius-caverns", "name": "Lake Arrius Caverns" },
+    { "id": "leafrot-cave", "name": "Leafrot Cave" },
+    { "id": "lost-boy-cavern", "name": "Lost Boy Cavern" },
+    { "id": "memorial-cave", "name": "Memorial Cave" },
+    { "id": "mingo-cave", "name": "Mingo Cave" },
+    { "id": "mongrels-tooth-cave", "name": "Mongrel's Tooth Cave" },
+    { "id": "moss-rock-cavern", "name": "Moss Rock Cavern" },
+    { "id": "muck-valley-cavern", "name": "Muck Valley Cavern" },
+    { "id": "newt-cave", "name": "Newt Cave" },
+    { "id": "nisin-cave", "name": "Nisin Cave" },
+    { "id": "nonwyll-caverns", "name": "Nonwyll Caverns" },
+    { "id": "onyx-caverns", "name": "Onyx Caverns" },
+    { "id": "outlaw-endres-cave", "name": "Outlaw Endre's Cave" },
+    { "id": "pothole-caverns", "name": "Pothole Caverns" },
+    { "id": "quickwater-cave", "name": "Quickwater Cave" },
+    { "id": "red-ruby-cave", "name": "Red Ruby Cave" },
+    { "id": "redguard-valley-cave", "name": "Redguard Valley Cave" },
+    { "id": "redwater-slough", "name": "Redwater Slough" },
+    { "id": "reedstand-cave", "name": "Reedstand Cave" },
+    { "id": "robbers-glen-cave", "name": "Robber's Glen Cave" },
+    { "id": "rock-bottom-caverns", "name": "Rock Bottom Caverns" },
+    { "id": "rockmilk-cave", "name": "Rockmilk Cave" },
+    { "id": "sage-glen-hollow", "name": "Sage Glen Hollow" },
+    { "id": "sandstone-cavern", "name": "Sandstone cavern" },
+    { "id": "serpent-hollow-cave", "name": "Serpent Hollow Cave" },
+    { "id": "serpents-trail", "name": "Serpent's Trail" },
+    { "id": "shadows-rest-cavern", "name": "Shadow's Rest Cavern" },
+    { "id": "shattered-scales-cave", "name": "Shattered Scales Cave" },
+    { "id": "shinbone-cave", "name": "Shinbone Cave" },
+    { "id": "sideways-cave", "name": "Sideways Cave" },
+    { "id": "silver-tooth-cave", "name": "Silver Tooth Cave" },
+    { "id": "sinkhole-cave", "name": "Sinkhole Cave" },
+    { "id": "smoke-hole-cave", "name": "Smoke Hole Cave" },
+    { "id": "smugglers-cave", "name": "Smuggler's Cave" },
+    { "id": "swampy-cave", "name": "Swampy Cave" },
+    {
+      "id": "temple-of-the-ancestor-monks",
+      "name": "Temple of the Ancestor Monks"
+    },
+    { "id": "tidewater-cave", "name": "Tidewater Cave" },
+    { "id": "timberscar-hollow", "name": "Timberscar Hollow" },
+    { "id": "toadstool-hollow", "name": "Toadstool Hollow" },
+    { "id": "underpall-cave", "name": "Underpall Cave" },
+    { "id": "undertow-cavern", "name": "Undertow Cavern" },
+    { "id": "unmarked-cave", "name": "Unmarked Cave" },
+    { "id": "veyond-cave", "name": "Veyond Cave" },
+    { "id": "wellspring-cave", "name": "Wellspring Cave" },
+    { "id": "wenderbek-cave", "name": "Wenderbek Cave" },
+    { "id": "wind-cave", "name": "Wind Cave" },
+    { "id": "yellow-tick-cave", "name": "Yellow Tick Cave" }
+  ]
+}

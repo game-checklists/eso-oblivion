@@ -1,0 +1,6 @@
+{
+  "arena": [
+    { "id": "the-arena", "name": "The Arena" },
+    { "id": "arena-grand-champion", "name": "Arena Grand Champion" }
+  ]
+}

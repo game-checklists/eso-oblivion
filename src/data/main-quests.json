@@ -1,0 +1,68 @@
+{
+  "mainQuestline": [
+    { "id": "tutorial", "name": "Tutorial", "isOptional": false },
+    {
+      "id": "deliver-the-amulet",
+      "name": "Deliver the Amulet",
+      "isOptional": false
+    },
+    { "id": "find-the-heir", "name": "Find the Heir", "isOptional": false },
+    {
+      "id": "breaking-the-siege-of-kvatch",
+      "name": "Breaking the Siege of Kvatch",
+      "isOptional": false
+    },
+    {
+      "id": "the-battle-for-castle-kvatch",
+      "name": "The Battle for Castle Kvatch",
+      "isOptional": true
+    },
+    { "id": "weynon-priory", "name": "Weynon Priory", "isOptional": false },
+    {
+      "id": "the-path-of-dawn",
+      "name": "The Path of Dawn",
+      "isOptional": false
+    },
+    { "id": "dagon-shrine", "name": "Dagon Shrine", "isOptional": false },
+    {
+      "id": "attack-on-fort-sutch",
+      "name": "Attack on Fort Sutch",
+      "isOptional": true
+    },
+    { "id": "spies", "name": "Spies", "isOptional": false },
+    {
+      "id": "blood-of-the-daedra",
+      "name": "Blood of the Daedra",
+      "isOptional": false
+    },
+    { "id": "bruma-gate", "name": "Bruma Gate", "isOptional": false },
+    {
+      "id": "allies-for-bruma",
+      "name": "Allies for Bruma",
+      "isOptional": true
+    },
+    {
+      "id": "blood-of-the-divines",
+      "name": "Blood of the Divines",
+      "isOptional": false
+    },
+    { "id": "miscarcand", "name": "Miscarcand", "isOptional": false },
+    {
+      "id": "defense-of-bruma",
+      "name": "Defense of Bruma",
+      "isOptional": false
+    },
+    { "id": "great-gate", "name": "Great Gate", "isOptional": false },
+    { "id": "paradise", "name": "Paradise", "isOptional": false },
+    {
+      "id": "light-the-dragonfires",
+      "name": "Light the Dragonfires",
+      "isOptional": false
+    },
+    {
+      "id": "imperial-dragon-armor",
+      "name": "Imperial Dragon Armor",
+      "isOptional": false
+    }
+  ]
+}

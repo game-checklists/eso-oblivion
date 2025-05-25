@@ -1,0 +1,19 @@
+{
+  "daedricShrines": [
+    { "name": "Azura's Shrine", "id": "azuras-shrine" },
+    { "name": "Boethia's Shrine", "id": "boethias-shrine" },
+    { "name": "Clavicus Vile's Shrine", "id": "clavicus-viles-shrine" },
+    { "name": "Hermaeus Mora's Shrine", "id": "hermaeus-moras-shrine" },
+    { "name": "Hircine's Shrine", "id": "hircines-shrine" },
+    { "name": "Malacath's Shrine", "id": "malacaths-shrine" },
+    { "name": "Mephala's Shrine", "id": "mephalas-shrine" },
+    { "name": "Meridia's Shrine", "id": "meridias-shrine" },
+    { "name": "Molag Bal's Shrine", "id": "molag-bals-shrine" },
+    { "name": "Namira's Shrine", "id": "namiras-shrine" },
+    { "name": "Nocturnal's Shrine", "id": "nocturnals-shrine" },
+    { "name": "Peryite's Shrine", "id": "peryites-shrine" },
+    { "name": "Sheogorath's Shrine", "id": "sheogoraths-shrine" },
+    { "name": "Shrine of Sanguine", "id": "shrine-of-sanguine" },
+    { "name": "Vaermina's Shrine", "id": "vaerminas-shrine" }
+  ]
+}

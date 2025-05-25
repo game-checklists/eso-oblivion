@@ -1,0 +1,14 @@
+{
+  "nonJournalQuests": [
+    { "id": "attack-on-fort-sutch", "name": "Attack on Fort Sutch" },
+    {
+      "id": "the-forgotten-chests-of-pale-pass",
+      "name": "The Forgotten Chests of Pale Pass"
+    },
+    { "id": "the-horror-of-dive-rock", "name": "The Horror of Dive Rock" },
+    { "id": "black-bow-bandits", "name": "Black Bow Bandits" },
+    { "id": "lich-of-lost-boy-cavern", "name": "Lich of Lost Boy Cavern" },
+    { "id": "the-unbeaten-path", "name": "The Unbeaten Path" },
+    { "id": "illegal-cargo", "name": "Illegal Cargo" }
+  ]
+}

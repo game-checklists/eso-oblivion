@@ -1,0 +1,31 @@
+{
+  "mines": [
+    { "locationName": "Abandoned Mine", "id": "abandoned-mine" },
+    { "locationName": "Barren Mine", "id": "barren-mine" },
+    { "locationName": "Belletor's Folly", "id": "belletors-folly" },
+    { "locationName": "Bleak Mine", "id": "bleak-mine" },
+    { "locationName": "Collapsed Mine", "id": "collapsed-mine" },
+    { "locationName": "Crumbling Mine", "id": "crumbling-mine" },
+    { "locationName": "Cursed Mine", "id": "cursed-mine" },
+    { "locationName": "Derelict Mine", "id": "derelict-mine" },
+    { "locationName": "Deserted Mine", "id": "deserted-mine" },
+    { "locationName": "Desolate Mine", "id": "desolate-mine" },
+    { "locationName": "Doomed Mine", "id": "doomed-mine" },
+    { "locationName": "Echo Mine", "id": "echo-mine" },
+    { "locationName": "Empty Mine", "id": "empty-mine" },
+    { "locationName": "Exhausted Mine", "id": "exhausted-mine" },
+    { "locationName": "Flooded Mine", "id": "flooded-mine" },
+    { "locationName": "Forsaken Mine", "id": "forsaken-mine" },
+    { "locationName": "Haunted Mine", "id": "haunted-mine" },
+    { "locationName": "Hidden Mine", "id": "hidden-mine" },
+    { "locationName": "Lost Mine", "id": "lost-mine" },
+    { "locationName": "Luminous Mine", "id": "luminous-mine" },
+    { "locationName": "Moldering Mine", "id": "moldering-mine" },
+    { "locationName": "Mourning Mine", "id": "mourning-mine" },
+    { "locationName": "Old Mine", "id": "old-mine" },
+    { "locationName": "Ruined Mine", "id": "ruined-mine" },
+    { "locationName": "Sealed Mine", "id": "sealed-mine" },
+    { "locationName": "Unstable Mine", "id": "unstable-mine" },
+    { "locationName": "Wicked Mine", "id": "wicked-mine" }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "mainCityQuests": [
+    { "id": "newheims-flagon", "name": "Newheim's Flagon" },
+    {
+      "id": "where-spirits-have-lease",
+      "name": "Where Spirits Have Lease"
+    },
+    { "id": "the-sirens-deception", "name": "The Siren's Deception" },
+    { "id": "the-ghost-ship-of-anvil", "name": "The Ghost Ship of Anvil" },
+    { "id": "caught-in-the-hunt", "name": "Caught in the Hunt" },
+    {
+      "id": "through-a-nightmare-darkly",
+      "name": "Through a Nightmare, Darkly"
+    },
+    { "id": "the-forlorn-watchman", "name": "The Forlorn Watchman" },
+    {
+      "id": "buying-a-house-in-bravil",
+      "name": "Buying a House in Bravil"
+    },
+    { "id": "two-sides-of-the-coin", "name": "Two Sides of the Coin" },
+    { "id": "a-brotherhood-betrayed", "name": "A Brotherhood Betrayed" },
+    { "id": "lifting-the-vale", "name": "Lifting the Vale" },
+    { "id": "buying-a-house-in-bruma", "name": "Buying a House in Bruma" },
+    { "id": "a-brush-with-death", "name": "A Brush with Death" },
+    {
+      "id": "buying-a-house-in-cheydinhal",
+      "name": "Buying a House in Cheydinhal"
+    },
+    {
+      "id": "corruption-and-conscience",
+      "name": "Corruption and Conscience"
+    },
+    { "id": "the-wayward-knight", "name": "The Wayward Knight" },
+    { "id": "the-killing-field", "name": "The Killing Field" },
+    { "id": "separated-at-birth", "name": "Separated at Birth" },
+    { "id": "legacy-lost", "name": "Legacy Lost" },
+    { "id": "sins-of-the-father", "name": "Sins of the Father" },
+    { "id": "a-shadow-over-hackdirt", "name": "A Shadow Over Hackdirt" },
+    { "id": "canvas-the-castle", "name": "Canvas the Castle" },
+    {
+      "id": "buying-a-house-in-chorrol",
+      "name": "Buying a House in Chorrol"
+    },
+    {
+      "id": "buy-a-house-in-the-imperial-city",
+      "name": "Buy a House in the Imperial City"
+    },
+    { "id": "unfriendly-competition", "name": "Unfriendly Competition" },
+    { "id": "the-collector", "name": "The Collector" },
+    { "id": "nothing-you-can-possess", "name": "Nothing You Can Possess" },
+    { "id": "secret-of-the-ayleids", "name": "Secret of the Ayleids" },
+    {
+      "id": "the-order-of-the-virtuous-blood",
+      "name": "The Order of the Virtuous Blood"
+    },
+    { "id": "imperial-corruption", "name": "Imperial Corruption" },
+    { "id": "an-unexpected-voyage", "name": "An Unexpected Voyage" },
+    {
+      "id": "origin-of-the-gray-prince",
+      "name": "Origin of the Gray Prince"
+    },
+    { "id": "vampire-cure", "name": "Vampire Cure" },
+    { "id": "raid-on-greyland", "name": "Raid on Greyland" },
+    { "id": "tears-of-the-savior", "name": "Tears of the Savior" },
+    { "id": "whom-gods-destroy", "name": "Whom Gods Destroy" },
+    { "id": "mazoga-the-orc", "name": "Mazoga the Orc" },
+    {
+      "id": "knights-of-the-white-stallion",
+      "name": "Knights of the White Stallion"
+    },
+    {
+      "id": "buying-a-house-in-leyawiin",
+      "name": "Buying a House in Leyawiin"
+    },
+    { "id": "paranoia", "name": "Paranoia" },
+    {
+      "id": "buying-a-house-in-skingrad",
+      "name": "Buying a House in Skingrad"
+    },
+    { "id": "helping-hands", "name": "Helping Hands" },
+    { "id": "the-rosethorn-cache", "name": "The Rosethorn Cache" },
+    { "id": "seeking-your-roots", "name": "Seeking Your Roots" }
+  ]
+}

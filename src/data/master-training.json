@@ -1,0 +1,25 @@
+{
+  "masterTraining": [
+    { "id": "acrobatics-training", "name": "Acrobatics Training" },
+    { "id": "alchemy-training", "name": "Alchemy Training" },
+    { "id": "alteration-training", "name": "Alteration Training" },
+    { "id": "armorer-training", "name": "Armorer Training" },
+    { "id": "athletics-training", "name": "Athletics Training" },
+    { "id": "blade-training", "name": "Blade Training" },
+    { "id": "block-training", "name": "Block Training" },
+    { "id": "blunt-training", "name": "Blunt Training" },
+    { "id": "conjuration-training", "name": "Conjuration Training" },
+    { "id": "destruction-training", "name": "Destruction Training" },
+    { "id": "hand-to-hand-training", "name": "Hand to Hand Training" },
+    { "id": "heavy-armor-training", "name": "Heavy Armor Training" },
+    { "id": "illusion-training", "name": "Illusion Training" },
+    { "id": "light-armor-training", "name": "Light Armor Training" },
+    { "id": "marksman-training", "name": "Marksman Training" },
+    { "id": "mercantile-training", "name": "Mercantile Training" },
+    { "id": "mysticism-training", "name": "Mysticism Training" },
+    { "id": "restoration-training", "name": "Restoration Training" },
+    { "id": "security-training", "name": "Security Training" },
+    { "id": "sneak-training", "name": "Sneak Training" },
+    { "id": "speechcraft-training", "name": "Speechcraft Training" }
+  ]
+}

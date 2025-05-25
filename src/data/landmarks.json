@@ -1,0 +1,18 @@
+{
+  "landmarks": [
+    { "name": "Cloud Top", "id": "cloud-top" },
+    { "name": "Dive Rock", "id": "dive-rock" },
+    { "name": "Dragonclaw Rock", "id": "dragonclaw-rock" },
+    { "name": "Gnoll Mountain", "id": "gnoll-mountain" },
+    { "name": "Harcane Grove", "id": "harcane-grove" },
+    { "name": "Hero Hill", "id": "hero-hill" },
+    {
+      "name": "The Mouth of the Panther",
+      "id": "the-mouth-of-the-panther"
+    },
+    { "name": "Old Bridge", "id": "old-bridge" },
+    { "name": "The Sentinel", "id": "the-sentinel" },
+    { "name": "Shadeleaf Copse", "id": "shadeleaf-copse" },
+    { "name": "A Strange Door", "id": "a-strange-door" }
+  ]
+}

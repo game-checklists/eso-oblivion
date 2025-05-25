@@ -1,0 +1,17 @@
+{
+  "housesCollected": [
+    { "id": "anvil", "name": "Anvil" },
+    { "id": "bravil", "name": "Bravil" },
+    { "id": "bruma", "name": "Bruma" },
+    { "id": "cheydinhal", "name": "Cheydinhal" },
+    { "id": "chorrol", "name": "Chorrol" },
+    { "id": "imperial-city", "name": "Imperial City" },
+    { "id": "leyawiin", "name": "Leyawiin" },
+    { "id": "skingrad", "name": "Skingrad" },
+    { "id": "battlehorn-castle", "name": "Battlehorn Castle" },
+    { "id": "deepscorn-hollow", "name": "Deepscorn Hollow" },
+    { "id": "dunbarrow-cave", "name": "Dunbarrow Cave" },
+    { "id": "frostcrag-spire", "name": "Frostcrag Spire" },
+    { "id": "priory-of-the-nine", "name": "Priory of the Nine" }
+  ]
+}

@@ -1,0 +1,316 @@
+{
+  "fightersGuild": [
+    {
+      "id": "join-fighters-guild",
+      "name": "Join the Fighters Guild",
+      "questGiver": "test"
+    },
+    {
+      "id": "unfinished-business",
+      "name": "Unfinished Business",
+      "questGiver": "test"
+    },
+    {
+      "id": "drunk-and-disorderly",
+      "name": "Drunk and Disorderly",
+      "questGiver": "test"
+    },
+    {
+      "id": "the-masters-son",
+      "name": "The Master's Son",
+      "questGiver": "test"
+    },
+    {
+      "id": "more-unfinished-business",
+      "name": "More Unfinished Business",
+      "questGiver": "test"
+    },
+    {
+      "id": "azani-blackheart",
+      "name": "Azani Blackheart",
+      "questGiver": "test"
+    },
+    {
+      "id": "trolls-of-forsaken-mine",
+      "name": "Trolls of Forsaken Mine",
+      "questGiver": "test"
+    },
+    {
+      "id": "information-gathering",
+      "name": "Information Gathering",
+      "questGiver": "test"
+    },
+    { "id": "infiltration", "name": "Infiltration", "questGiver": "test" },
+    { "id": "the-hist", "name": "The Hist", "questGiver": "test" },
+    {
+      "id": "the-desolate-mine",
+      "name": "The Desolate Mine",
+      "questGiver": "test"
+    },
+    { "id": "amelions-debt", "name": "Amelion's Debt", "questGiver": "test" },
+    { "id": "the-fugitives", "name": "The Fugitives", "questGiver": "test" },
+    {
+      "id": "the-nobles-daughter",
+      "name": "The Noble's Daughter",
+      "questGiver": "test"
+    },
+    {
+      "id": "mystery-at-harluns-watch",
+      "name": "Mystery at Harlun's Watch",
+      "questGiver": "test"
+    },
+    { "id": "a-rat-problem", "name": "A Rat Problem", "questGiver": "test" },
+    {
+      "id": "the-unfortunate-shopkeeper",
+      "name": "The Unfortunate Shopkeeper",
+      "questGiver": "test"
+    },
+    { "id": "den-of-thieves", "name": "Den of Thieves", "questGiver": "test" },
+    {
+      "id": "the-wandering-scholar",
+      "name": "The Wandering Scholar",
+      "questGiver": "test"
+    },
+    {
+      "id": "the-stone-of-st-alessia",
+      "name": "The Stone of St. Alessia",
+      "questGiver": "test"
+    }
+  ],
+  "magesGuild": [
+    {
+      "id": "join-mages-guild",
+      "name": "Join the Mages Guild",
+      "questGiver": "test"
+    },
+    {
+      "id": "anvil-recommendation",
+      "name": "Anvil Recommendation",
+      "questGiver": "test"
+    },
+    {
+      "id": "bravil-recommendation",
+      "name": "Bravil Recommendation",
+      "questGiver": "test"
+    },
+    {
+      "id": "bruma-recommendation",
+      "name": "Bruma Recommendation",
+      "questGiver": "test"
+    },
+    {
+      "id": "cheydinhal-recommendation",
+      "name": "Cheydinhal Recommendation",
+      "questGiver": "test"
+    },
+    {
+      "id": "chorrol-recommendation",
+      "name": "Chorrol Recommendation",
+      "questGiver": "test"
+    },
+    {
+      "id": "leyawiin-recommendation",
+      "name": "Leyawiin Recommendation",
+      "questGiver": "test"
+    },
+    {
+      "id": "skingrad-recommendation",
+      "name": "Skingrad Recommendation",
+      "questGiver": "test"
+    },
+    { "id": "mages-staff", "name": "A Mage's Staff", "questGiver": "test" },
+    {
+      "id": "ulterior-motives",
+      "name": "Ulterior Motives",
+      "questGiver": "test"
+    },
+    {
+      "id": "vahtacen-secret",
+      "name": "Vahtacen's Secret",
+      "questGiver": "test"
+    },
+    {
+      "id": "necromancers-moon",
+      "name": "Necromancer's Moon",
+      "questGiver": "test"
+    },
+    {
+      "id": "liberation-or-apprehension",
+      "name": "Liberation or Apprehension?",
+      "questGiver": "test"
+    },
+    {
+      "id": "information-at-a-price",
+      "name": "Information at a Price",
+      "questGiver": "test"
+    },
+    {
+      "id": "a-plot-revealed",
+      "name": "A Plot Revealed",
+      "questGiver": "test"
+    },
+    {
+      "id": "necromancers-amulet",
+      "name": "The Necromancer's Amulet",
+      "questGiver": "test"
+    },
+    {
+      "id": "bloodworm-helm",
+      "name": "The Bloodworm Helm",
+      "questGiver": "test"
+    },
+    { "id": "ambush", "name": "Ambush", "questGiver": "test" },
+    {
+      "id": "alchemy-acquisitions",
+      "name": "Alchemy Aquisitions",
+      "questGiver": "test"
+    }
+  ],
+  "thievesGuild": [
+    {
+      "id": "finding-the-thieves-guild",
+      "name": "Finding the Thieves Guild",
+      "questGiver": "test"
+    },
+    {
+      "id": "may-the-best-thief-win",
+      "name": "May the Best Thief Win",
+      "questGiver": "test"
+    },
+    {
+      "id": "untaxing-the-poor",
+      "name": "Untaxing the Poor",
+      "questGiver": "test"
+    },
+    {
+      "id": "the-elven-maiden",
+      "name": "The Elven Maiden",
+      "questGiver": "test"
+    },
+    {
+      "id": "ahdarjis-heirloom",
+      "name": "Ahdarji's Heirloom",
+      "questGiver": "test"
+    },
+    { "id": "misdirection", "name": "Misdirection", "questGiver": "test" },
+    { "id": "lost-histories", "name": "Lost Histories", "questGiver": "test" },
+    {
+      "id": "taking-care-of-lex",
+      "name": "Taking Care of Lex",
+      "questGiver": "test"
+    },
+    {
+      "id": "turning-a-blind-eye",
+      "name": "Turning a Blind Eye",
+      "questGiver": "test"
+    },
+    {
+      "id": "arrow-of-extrication",
+      "name": "Arrow of Extrication",
+      "questGiver": "test"
+    },
+    {
+      "id": "boots-of-springheel-jak",
+      "name": "Boots of Springheel Jak",
+      "questGiver": "test"
+    },
+    {
+      "id": "the-ultimate-heist",
+      "name": "The Ultimate Heist",
+      "questGiver": "test"
+    },
+    {
+      "id": "independent-thievery",
+      "name": "Independent Thievery",
+      "questGiver": "test"
+    }
+  ],
+  "darkBrotherhood": [
+    {
+      "id": "a-knife-in-the-dark",
+      "name": "A Knife in the Dark",
+      "questGiver": "test"
+    },
+    { "id": "a-watery-grave", "name": "A Watery Grave", "questGiver": "test" },
+    {
+      "id": "accidents-happen",
+      "name": "Accidents Happen",
+      "questGiver": "test"
+    },
+    {
+      "id": "scheduled-for-execution",
+      "name": "Scheduled for Execution",
+      "questGiver": "test"
+    },
+    {
+      "id": "the-assassinated-man",
+      "name": "The Assassinated Man",
+      "questGiver": "test"
+    },
+    {
+      "id": "the-lonely-wanderer",
+      "name": "The Lonely Wanderer",
+      "questGiver": "test"
+    },
+    { "id": "bad-medicine", "name": "Bad Medicine", "questGiver": "test" },
+    { "id": "whodunit", "name": "Whodunit?", "questGiver": "test" },
+    {
+      "id": "permanent-retirement",
+      "name": "Permanent Retirement",
+      "questGiver": "test"
+    },
+    {
+      "id": "the-purification",
+      "name": "The Purification",
+      "questGiver": "test"
+    },
+    {
+      "id": "affairs-of-a-wizard",
+      "name": "Affairs of a Wizard",
+      "questGiver": "test"
+    },
+    { "id": "next-of-kin", "name": "Next of Kin", "questGiver": "test" },
+    { "id": "broken-vows", "name": "Broken Vows", "questGiver": "test" },
+    { "id": "final-justice", "name": "Final Justice", "questGiver": "test" },
+    {
+      "id": "a-matter-of-honor",
+      "name": "A Matter of Honor",
+      "questGiver": "test"
+    },
+    {
+      "id": "the-coldest-sleep",
+      "name": "The Coldest Sleep",
+      "questGiver": "test"
+    },
+    {
+      "id": "a-kiss-before-dying",
+      "name": "A Kiss Before Dying",
+      "questGiver": "test"
+    },
+    {
+      "id": "following-a-lead",
+      "name": "Following a Lead",
+      "questGiver": "test"
+    },
+    {
+      "id": "honor-thy-mother",
+      "name": "Honor Thy Mother",
+      "questGiver": "test"
+    },
+    {
+      "id": "whispers-of-death",
+      "name": "Whispers of Death",
+      "questGiver": "test"
+    },
+    {
+      "id": "the-renegade-shadowscale",
+      "name": "The Renegade Shadowscale",
+      "questGiver": "test"
+    },
+    {
+      "id": "darkness-eternal",
+      "name": "Darkness Eternal",
+      "questGiver": "test"
+    }
+  ]
+}
